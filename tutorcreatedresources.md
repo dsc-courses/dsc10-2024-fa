@@ -94,7 +94,7 @@ If you would like to check out more of Raine's Projects, please click (<a href="
 
 </center>
 
-#### .str.contains(), .str methods by Michelle Hong
+#### .str.contains() and Other String Methods by Michelle Hong
 <center>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/OG-bmeozc1w?si=pJP9aXV-4eOpnm2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -105,7 +105,7 @@ If you would like to check out more of Raine's Projects, please click (<a href="
 
 </center>
 
-#### String, Series, Array methods by Sophie Wang
+#### String, Series, and Array Methods by Sophie Wang
 <center>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/J05wJtO3CEU?si=etN4UZC2oOfzh8fI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -137,7 +137,7 @@ If you would like to check out more of Raine's Projects, please click (<a href="
 
 </center>
 
-#### DSC 10 🐼 .groupby() by Kate Feng
+#### .groupby() by Kate Feng
 
 <center>
 
@@ -187,7 +187,7 @@ If you would like to check out more of Ester's Projects, please click (<a href="
 
 </center>
 
-#### DSC 10 Data Structures by Minchan Kim
+#### Data Structures by Minchan Kim
 <center>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/eJ1f5EB4mfI?si=eWCyT8tLabMKP5hh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -242,7 +242,7 @@ If you would like to check out more of Ester's Projects, please click (<a href="
 </center>
 
 
-#### All about TVD by Calvin Nguyen
+#### All About TVD by Calvin Nguyen
 <center>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/WmA2toOgg4s?si=CC5koakf6epl3A_O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -254,7 +254,7 @@ If you would like to check out more of Ester's Projects, please click (<a href="
 </center>
 
 
-#### What are P values? by Daniel Budidharma
+#### What are p-values? by Daniel Budidharma
 <center>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/KNhINtlvsOQ?si=sgVo9swg1Z2EtqDF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -266,7 +266,7 @@ If you would like to check out more of Ester's Projects, please click (<a href="
 </center>
 
 
-#### How to Choose Test Statitiscs For Hypothesis Testing by Cici Xu
+#### How to Choose Test Statitiscs for Hypothesis Testing by Cici Xu
 <center>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/P_K5aC8W3xg?si=GhPYQbkhuNWGpcuD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
