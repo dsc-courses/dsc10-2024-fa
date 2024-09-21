@@ -20,14 +20,112 @@ As a disclaimer, these materials are provided to help you study, but they are no
 1. TOC
 {:toc}
 
+
+### Coding Tips, Debugging Errors, and Jupyter Notebook Shortcuts
+
+#### Error Handling and Keyboard Shortcuts in Jupyter Notebooks by Aaron Raisen, Bill Wang, Leena Kang
+
+<a href="https://github.com/BillWang04/dsc95_final_project">Link to Error Handling and Keyboard Shortcuts in Jupyter Notebooks</a>
+
+
+#### Jupyter Notebook Keyboard Shortcuts by Pranav Rajaram
+<center>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/EYkqVBrHfjY?si=6LspofYrVg23WwcV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<br>
+
+(<a href="https://www.youtube.com/watch?v=EYkqVBrHfjY&ab_channel=PranavRajaram">source</a>)
+
+</center>
+
+#### Basic Coding Tips and Error Messages by Kathleen Nguyen
+
+<center>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ea9eY8MpxGk?si=ao1Gyl2OjWm3PBg0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<br>
+
+(<a href="https://www.youtube.com/watch?v=ea9eY8MpxGk&ab_channel=KathleenNguyen">source</a>)
+
+</center>
+
+#### Keyword Errors by Raine Hoang
+
+<center>
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTo6Iv-bGUYmTh7q4-Py8OeRncl23FXEzKS3qvIGe1BTWMvRv5ien8VTAAyfzb4EQ/embed?start=false&loop=false&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
+<br>
+
+(<a href="https://docs.google.com/presentation/d/1AmJJzdzS0GF4v2jiRTnvjJUsUFISoq3S/edit#slide=id.p1">source</a>)
+
+If you would like to check out more of Raine's Projects, please click (<a href="https://drive.google.com/drive/u/4/folders/1AdRtbZuUptUEqLDYE0-l1IhgRsFeM1DY">here!</a>)
+
+</center>
+
+<hr>
+
+
+### Strings, Series, and Arrays
+
+#### String Methods by Keenan Serrano, Norah Kerendian, Ylesia Wu
+<center>
+  
+<iframe src="https://drive.google.com/file/d/1_QX___9JYZm0GH5tw75dlQX4gIYY4RCf/preview" width="640" height="480" allow="autoplay"></iframe>
+
+<br>
+
+(<a href="https://drive.google.com/file/d/1_QX___9JYZm0GH5tw75dlQX4gIYY4RCf/view?usp=sharing">source</a>)
+
+
+</center>
+
+
+#### Series String Methods by Keenan Serrano, Norah Kerendian, Ylesia Wu
+<center>
+
+<iframe src="https://drive.google.com/file/d/1n5m0DFc4rPupaDjEXEM_zMcoHmbd8pqG/preview" width="640" height="480" allow="autoplay"></iframe>
+
+<br>
+
+(<a href="https://drive.google.com/file/d/1n5m0DFc4rPupaDjEXEM_zMcoHmbd8pqG/view?usp=sharing">source</a>)
+
+</center>
+
+#### .str.contains(), .str methods by Michelle Hong
+<center>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OG-bmeozc1w?si=pJP9aXV-4eOpnm2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<br>
+
+(<a href="https://www.youtube.com/watch?v=OG-bmeozc1w&ab_channel=MichelleHong">source</a>)
+
+</center>
+
+#### String, Series, Array methods by Sophie Wang
+<center>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/J05wJtO3CEU?si=etN4UZC2oOfzh8fI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<br>
+
+(<a href="https://www.youtube.com/watch?v=J05wJtO3CEU&ab_channel=SophieWang">source</a>)
+
+</center>
+
+<hr>
+
 ### DataFrames
 
-#### DataFrame Review (Nathaniel Del Rosario, Ashley Ho, Chaninder Rishi)
+#### DataFrame Review by Nathaniel Del Rosario, Ashley Ho, Chaninder Rishi
 
 <a href="https://www.notion.so/DSC-10-DataFrames-Review-c072733a886c4b5985379750deae3658">Link to Dataframe Review</a>
 
 
-#### Query Examples (Keenan Serrano, Norah Kerendian, Ylesia Wu)
+#### Query Examples by Keenan Serrano, Norah Kerendian, Ylesia Wu
 
 <center>
 
@@ -39,7 +137,7 @@ As a disclaimer, these materials are provided to help you study, but they are no
 
 </center>
 
-#### DSC10 🐼 .groupby() by Kate Feng
+#### DSC 10 🐼 .groupby() by Kate Feng
 
 <center>
 
@@ -102,101 +200,6 @@ If you would like to check out more of Ester's Projects, please click (<a href="
 
 <hr>
 
-### Strings, Series, and Arrays
-
-#### String Methods by Keenan Serrano, Norah Kerendian, Ylesia Wu
-<center>
-  
-<iframe src="https://drive.google.com/file/d/1_QX___9JYZm0GH5tw75dlQX4gIYY4RCf/preview" width="640" height="480" allow="autoplay"></iframe>
-
-<br>
-
-(<a href="https://drive.google.com/file/d/1_QX___9JYZm0GH5tw75dlQX4gIYY4RCf/view?usp=sharing">source</a>)
-
-
-</center>
-
-
-#### Series String Methods by Keenan Serrano, Norah Kerendian, Ylesia Wu
-<center>
-
-<iframe src="https://drive.google.com/file/d/1n5m0DFc4rPupaDjEXEM_zMcoHmbd8pqG/preview" width="640" height="480" allow="autoplay"></iframe>
-
-<br>
-
-(<a href="https://drive.google.com/file/d/1n5m0DFc4rPupaDjEXEM_zMcoHmbd8pqG/view?usp=sharing">source</a>)
-
-</center>
-
-#### .str.contains(), .str methods by Michelle Hong
-<center>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OG-bmeozc1w?si=pJP9aXV-4eOpnm2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-<br>
-
-(<a href="https://www.youtube.com/watch?v=OG-bmeozc1w&ab_channel=MichelleHong">source</a>)
-
-</center>
-
-#### String, Series, Array methods by Sophie Wang
-<center>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/J05wJtO3CEU?si=etN4UZC2oOfzh8fI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-<br>
-
-(<a href="https://www.youtube.com/watch?v=J05wJtO3CEU&ab_channel=SophieWang">source</a>)
-
-</center>
-
-<hr>
-
-### Coding Tips, Debugging Errors, and Jupyter Notebook Shortcuts
-
-#### Error Handling and Keyboard Shortcuts in Jupyter Notebooks by Aaron Raisen, Bill Wang, Leena Kang
-
-<a href="https://github.com/BillWang04/dsc95_final_project">Link to Error Handling and Keyboard Shortcuts in Jupyter Notebooks</a>
-
-
-#### Jupyter Notebook Keyboard Shortcuts by Pranav Rajaram
-<center>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/EYkqVBrHfjY?si=6LspofYrVg23WwcV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-<br>
-
-(<a href="https://www.youtube.com/watch?v=EYkqVBrHfjY&ab_channel=PranavRajaram">source</a>)
-
-</center>
-
-#### Basic Coding Tips and Error Messages by Kathleen Nguyen
-
-<center>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ea9eY8MpxGk?si=ao1Gyl2OjWm3PBg0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-<br>
-
-(<a href="https://www.youtube.com/watch?v=ea9eY8MpxGk&ab_channel=KathleenNguyen">source</a>)
-
-</center>
-
-#### Keyword Errors by Raine Hoang
-
-<center>
-
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTo6Iv-bGUYmTh7q4-Py8OeRncl23FXEzKS3qvIGe1BTWMvRv5ien8VTAAyfzb4EQ/embed?start=false&loop=false&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
-
-<br>
-
-(<a href="https://docs.google.com/presentation/d/1AmJJzdzS0GF4v2jiRTnvjJUsUFISoq3S/edit#slide=id.p1">source</a>)
-
-If you would like to check out more of Raine's Projects, please click (<a href="https://drive.google.com/drive/u/4/folders/1AdRtbZuUptUEqLDYE0-l1IhgRsFeM1DY">here!</a>)
-
-</center>
-
-<hr>
 
 ### Probability
 
