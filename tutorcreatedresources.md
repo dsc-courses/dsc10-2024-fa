@@ -51,13 +51,13 @@ As a disclaimer, these materials are provided to help you study, but they are no
 
 <center>
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTo6Iv-bGUYmTh7q4-Py8OeRncl23FXEzKS3qvIGe1BTWMvRv5ien8VTAAyfzb4EQ/embed?start=false&loop=false&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTo6Iv-bGUYmTh7q4-Py8OeRncl23FXEzKS3qvIGe1BTWMvRv5ien8VTAAyfzb4EQ/embed?start=false&loop=false&delayms=3000" frameborder="0" width="560" height="315" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 <br>
 
 (<a href="https://docs.google.com/presentation/d/1AmJJzdzS0GF4v2jiRTnvjJUsUFISoq3S/edit#slide=id.p1">source</a>)
 
-If you would like to check out more of Raine's Projects, please click (<a href="https://drive.google.com/drive/u/4/folders/1AdRtbZuUptUEqLDYE0-l1IhgRsFeM1DY">here!</a>)
+<!--If you would like to check out more of Raine's Projects, please <a href="https://drive.google.com/drive/u/4/folders/1AdRtbZuUptUEqLDYE0-l1IhgRsFeM1DY">click here</a>!-->
 
 </center>
 
@@ -73,7 +73,7 @@ If you would like to check out more of Raine's Projects, please click (<a href="
 #### String Methods by Keenan Serrano, Norah Kerendian, Ylesia Wu
 <center>
   
-<iframe src="https://drive.google.com/file/d/1_QX___9JYZm0GH5tw75dlQX4gIYY4RCf/preview" width="640" height="480" allow="autoplay"></iframe>
+<iframe src="https://drive.google.com/file/d/1_QX___9JYZm0GH5tw75dlQX4gIYY4RCf/preview" width="560" height="315" allow="autoplay"></iframe>
 
 <br>
 
@@ -86,7 +86,7 @@ If you would like to check out more of Raine's Projects, please click (<a href="
 #### Series String Methods by Keenan Serrano, Norah Kerendian, Ylesia Wu
 <center>
 
-<iframe src="https://drive.google.com/file/d/1n5m0DFc4rPupaDjEXEM_zMcoHmbd8pqG/preview" width="640" height="480" allow="autoplay"></iframe>
+<iframe src="https://drive.google.com/file/d/1n5m0DFc4rPupaDjEXEM_zMcoHmbd8pqG/preview" width="560" height="315" allow="autoplay"></iframe>
 
 <br>
 
@@ -129,7 +129,7 @@ If you would like to check out more of Raine's Projects, please click (<a href="
 
 <center>
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQsZzqPaQRO1AEdfbAqXyfIDBvma-eLkNNIHA3Go3LJ86I40d569PuoEZq5oTB2Ug/embed?start=false&loop=false&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQsZzqPaQRO1AEdfbAqXyfIDBvma-eLkNNIHA3Go3LJ86I40d569PuoEZq5oTB2Ug/embed?start=false&loop=false&delayms=3000" frameborder="0" width="560" height="315" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 <br>
 
@@ -177,13 +177,14 @@ If you would like to check out more of Raine's Projects, please click (<a href="
 
 <center>
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSktGUenZS-TNc0_rtgc7H7q1TixSzzHSSOYGMPv954U3kQvK8mYIShlV87aHin8g/embed?start=false&loop=false&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSktGUenZS-TNc0_rtgc7H7q1TixSzzHSSOYGMPv954U3kQvK8mYIShlV87aHin8g/embed?start=false&loop=false&delayms=3000" frameborder="0" width="560" height="315" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 <br>
 
 (<a href="https://docs.google.com/presentation/d/1GALNG1sKDCs-vTKLBT-LYzfZztqFRSUv/edit#slide=id.p1">source</a>)
 
-If you would like to check out more of Ester's Projects, please click (<a href="https://drive.google.com/drive/u/4/folders/1YaEYG9cPjVfVLCNz-raAXiuPekfrCF3J">here!</a>)
+<!--If you would like to check out more of Ester's Projects, please <a href="https://drive.google.com/drive/u/4/folders/1YaEYG9cPjVfVLCNz-raAXiuPekfrCF3J">click here</a>!-->
+
 
 </center>
 
