@@ -9,9 +9,10 @@ parent: 📚 Resources
 # {{ page. title }}
 {:.no_toc}
 
-🚨This page is under construction!🚨
+This page is a collection of resources created by current and former DSC 10 tutors. Feel free to use these materials for additional explanations and extra practice with tricky concepts. 
 
-This page has content made by DSC 10 tutors over the course of time that they thought would be helpful. Feel free to click through on this page, or if you'd like to view the content directly in browser, click the "source" link.
+As a disclaimer, these materials are provided to help you study, but they are not to be taken as the authority. They may contain errors. Always refer to the course's official materials (lecture slides, textbook, etc.) for the most accurate information. Feel free to ask questions about these materials if you think something is incorrect.
+
 
 ## Table of contents
 {: .no_toc .text-delta }
@@ -19,14 +20,14 @@ This page has content made by DSC 10 tutors over the course of time that they th
 1. TOC
 {:toc}
 
-### Dataframes
+### DataFrames
 
-#### Dataframe Review by Nathaniel Del Rosario, Ashley Ho, Chaninder Rishi
+#### DataFrame Review (Nathaniel Del Rosario, Ashley Ho, Chaninder Rishi)
 
 <a href="https://www.notion.so/DSC-10-DataFrames-Review-c072733a886c4b5985379750deae3658">Link to Dataframe Review</a>
 
 
-#### Query Examples by Keenan Serrano, Norah Kerendian, Ylesia Wu
+#### Query Examples (Keenan Serrano, Norah Kerendian, Ylesia Wu)
 
 <center>
 
