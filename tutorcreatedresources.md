@@ -23,10 +23,6 @@ As a disclaimer, these materials are provided to help you study, but they are no
 
 ### Coding Tips, Debugging Errors, and Jupyter Notebook Shortcuts
 
-#### Error Handling and Keyboard Shortcuts in Jupyter Notebooks by Aaron Raisen, Bill Wang, Leena Kang
-
-<a href="https://github.com/BillWang04/dsc95_final_project">Link to Error Handling and Keyboard Shortcuts in Jupyter Notebooks</a>
-
 
 #### Jupyter Notebook Keyboard Shortcuts by Pranav Rajaram
 <center>
@@ -64,6 +60,10 @@ As a disclaimer, these materials are provided to help you study, but they are no
 If you would like to check out more of Raine's Projects, please click (<a href="https://drive.google.com/drive/u/4/folders/1AdRtbZuUptUEqLDYE0-l1IhgRsFeM1DY">here!</a>)
 
 </center>
+
+#### Error Handling and Keyboard Shortcuts in Jupyter Notebooks by Aaron Rasin, Bill Wang, Leena Kang
+
+<a href="https://github.com/BillWang04/dsc95_final_project">Open Here</a>
 
 <hr>
 
@@ -122,7 +122,7 @@ If you would like to check out more of Raine's Projects, please click (<a href="
 
 #### DataFrame Review by Nathaniel Del Rosario, Ashley Ho, Chaninder Rishi
 
-<a href="https://www.notion.so/DSC-10-DataFrames-Review-c072733a886c4b5985379750deae3658">Link to Dataframe Review</a>
+<a href="https://www.notion.so/DSC-10-DataFrames-Review-c072733a886c4b5985379750deae3658">Open Here</a>
 
 
 #### Query Examples by Keenan Serrano, Norah Kerendian, Ylesia Wu
