@@ -30,7 +30,7 @@ days:
             - name: BPD 7-8
               url: https://notes.dsc10.com/02-data_sets/arrays.html
             - name: CIT 14.1
-              url: https://inferentialthinking.com/chapters/14/1/Properties_of_the_Mean.html#
+              url: https://inferentialthinking.com/chapters/14/1/Properties_of_the_Mean.html
           keywords: string methods, mean, median, lists, arrays, array arithmetic
     - date: 2024-10-3
       events:

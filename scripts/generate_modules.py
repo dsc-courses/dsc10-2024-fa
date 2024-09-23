@@ -12,7 +12,7 @@ import numpy as np
 CSV_PATH = "./scripts/Lecture Schedule – DSC 10, Fall 2024.csv"
 DATE_FORMAT = "DATE MONTH/DAY"
 YEAR = 2024
-START_FROM_WEEK = 1 #only future weeks!
+START_FROM_WEEK = 0 #only future weeks!
 
 
 def fill_missing_vals(df):
@@ -143,7 +143,7 @@ days:"""
                 num_readings = len(readings_list)
                 for j in range(num_readings):
                     read_str += f"""            - name: {readings_list[j]}\n"""
-                    read_str += f"""              url: {links_list[j]}\n"""
+                    read_str += f"""              url: {links_list[j].strip('#')}\n"""
                 outstr += f"""{read_str}"""
                 
             if keywords:
