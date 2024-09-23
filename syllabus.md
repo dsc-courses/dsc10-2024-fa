@@ -429,9 +429,9 @@ Actively participating in the course is highly beneficial to your learning. Enga
 There will be 14 participation points available:
 
 - 3 points for the Pretest, graded for honest effort
-- 1 point for passing a Syllabus Check at 80% or higher
+- 1 point for passing the Syllabus Check at 80% or higher
 - 1 point for completing SETs (Student Evaluations of Teaching) and an internal End-Of-Quarter Survey 
-- 1 point for attending each Discussion secction (9 points available)
+- 1 point for attending each discussion section (9 points available)
 
 Score **10 points or higher for full participation credit**. If you earn fewer than 10 points, your participation grade will be the number of points earned out of 10.
 
