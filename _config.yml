@@ -16,17 +16,11 @@
 title: DSC 10
 description: DSC 10, Fall 2024 at UC San Diego
 tagline: Principles of Data Science
-
 baseurl: '' # the subpath of your site, e.g. /blog
 url: 'https://dsc10.com' # the base hostname & protocol for your site, e.g. http://example.com
-
 author: DSC 10 Instructors and Course Staff
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
 
-gradescope: [Gradescope](https://www.gradescope.com/courses/871401)
-solis_104: [Solis 104](https://map.concept3d.com/?id=1005#!m/237105)
-center_109: [Center 109](https://map.concept3d.com/?id=1005#!m/163044)
-center_113: [Center 113](https://map.concept3d.com/?id=1005#!m/163044)
 
 # Theme settings
 remote_theme: just-the-docs/just-the-docs@v0.4.0.rc3
