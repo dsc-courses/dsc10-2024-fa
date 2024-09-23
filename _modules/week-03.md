@@ -1,29 +1,61 @@
 ---
-    title: Week 3 – Data Visualization and Functions
+    title: Week 3 – Functions and Control Flow
     weekNumber: 3
     days:
-      - date: 2024-4-15
+      - date: 2024-10-14
         events:
-          "**LEC 7**{: .label .label-lecture } [Distributions and Histograms](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2024-sp&subPath=lectures/lec07/lec07.ipynb) [✏️](resources/lectures/lec07/lec07.html)":
-            "[CIT 7.2-7.3](https://inferentialthinking.com/chapters/07/2/Visualizing_Numerical_Distributions.html)" 
-          "<small><i><span style='display: inline-block; padding-left: 80px'><b>Keywords:</b> distributions, density histograms, binning, total area, overlaid plots </span></i></small>":
-      - date: 2024-4-16
+          - name: LEC 8
+            type: lecture
+            title: Functions and Applying
+            url:
+            html:
+            podcast:
+            readings:
+							- name: BPD 6
+							  url: https://notes.dsc10.com/01-getting_started/functions-defining.html#example
+							- name: 12
+							  url: https://notes.dsc10.com/02-data_sets/apply.html
+						keywords: functions, arguments, print vs. return, .apply, .reset_index
+				  - name: DISC 3
+            type: discussion
+            title: Querying, Grouping, and Plotting
+            problems: 
+      - date: 2024-10-16
         events:
-          
-          "**HW 1**{: .label .label-hw } **[Basic Python, Arrays, and DataFrames](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2024-sp&subPath=homeworks/hw01/hw01.ipynb)**":
-      - date: 2024-4-17
+          - name: LEC 9
+            type: lecture
+            title: Grouping on Multiple Columns, Merging
+            url:
+            html:
+            podcast:
+            readings:
+							- name: BPD 11
+							  url: https://notes.dsc10.com/02-data_sets/groupby.html
+							- name: 13
+							  url: https://notes.dsc10.com/02-data_sets/merging.html
+						keywords: .groupby([col_1, col_2, …]), subgroups, MultiIndex, .merge, number of rows
+      - date: 2024-10-17
         events:
-          "**LEC 8**{: .label .label-lecture } [Functions and Applying](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2024-sp&subPath=lectures/lec08/lec08.ipynb) [✏️](resources/lectures/lec08/lec08.html)":
-            "[BPD 6](https://notes.dsc10.com/01-getting_started/functions-defining.html#example), [12](https://notes.dsc10.com/02-data_sets/apply.html)" 
-          "<small><i><span style='display: inline-block; padding-left: 80px'><b>Keywords:</b> functions, arguments, print vs. return, .apply, .reset_index </span></i></small>":
-          "**DISC 3**{: .label .label-disc } **[Querying, Grouping, and Plotting](https://practice.dsc10.com/disc03/index.html)**":
-      - date: 2024-4-18
+          - name: LAB 2
+            type: lab
+            title: Data Visualizations and Functions
+            url: 
+      - date: 2024-10-18
         events:
-          
-          "**LAB 2**{: .label .label-lab } **[Data Visualizations and Python Functions](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2024-sp&subPath=labs/lab02/lab02.ipynb)**":
-      - date: 2024-4-19
+          - name: LEC 10
+            type: lecture
+            title: Conditional Statements and Iteration
+            url:
+            html:
+            podcast:
+            readings:
+							- name: CIT 9.0-9.2
+							  url: https://inferentialthinking.com/chapters/09/Randomness.html
+						keywords: in, not, and, or, if, else, elif, for-loops, np.append, accumulator pattern
+      - date: 2024-10-20
         events:
-          "**LEC 9**{: .label .label-lecture } [Grouping on Multiple Columns, Merging](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2024-sp&subPath=lectures/lec09/lec09.ipynb) [✏️](resources/lectures/lec09/lec09.html)":
-            "[BPD 11](https://notes.dsc10.com/02-data_sets/groupby.html), [13](https://notes.dsc10.com/02-data_sets/merging.html)" 
-          "<small><i><span style='display: inline-block; padding-left: 80px'><b>Keywords:</b> .groupby([col_1, col_2, …]), subgroups, MultiIndex, .merge, number of rows </span></i></small>":
+          - name: HW 2
+            type: hw
+            title: DataFrames, Data Visualization, and Functions
+            url:
 ---
