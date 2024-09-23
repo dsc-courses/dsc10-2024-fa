@@ -41,5 +41,5 @@ days:
           problems:
     - date: 2024-11-29
       events: 
-        - markdown_content: <b>No Lecture (Thanksgiving 🦃)<b>
+        - markdown_content: <b>No Lecture (Thanksgiving 🦃)</b>
 ---

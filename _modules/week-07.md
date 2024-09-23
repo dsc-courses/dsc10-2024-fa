@@ -4,7 +4,7 @@ weekNumber: 7
 days:
     - date: 2024-11-11
       events: 
-        - markdown_content: <b>No Lecture (Veterans Day 🎖️)<b>
+        - markdown_content: <b>No Lecture (Veterans Day 🎖️)</b>
     - date: 2024-11-13
       events: 
         - name: LEC 19

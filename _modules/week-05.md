@@ -19,7 +19,7 @@ days:
       events: 
         - name: EXAM
           type: exam
-          title: <b>Midterm Exam covers Lectures 1-12<b>
+          title: <b>Midterm Exam covers Lectures 1-12</b>
     - date: 2024-11-1
       events: 
         - name: LEC 15
