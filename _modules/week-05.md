@@ -12,9 +12,9 @@ days:
           podcast:
           readings:
         - name: DISC 5
-            type: discussion
-            title: Probability and Simulation
-            problems: 
+          type: discussion
+          title: Probability and Simulation
+          problems:
     - date: 2024-10-30
       events: 
         - name: EXAM
@@ -34,8 +34,8 @@ days:
           keywords: inference, bootstrapping, resample, np.percentile, confidence interval
     - date: 2024-11-3
       events:
-          - name: PROJ
-            type: proj
-            title: Midterm Project
-            url:
+        - name: PROJ
+          type: proj
+          title: Midterm Project
+          url:
 ---

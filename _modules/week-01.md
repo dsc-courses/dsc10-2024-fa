@@ -15,9 +15,9 @@ days:
               url: https://notes.dsc10.com/01-getting_started/tools.html
           keywords: Jupyter notebooks, expressions, variables, assignment, functions, int, float
         - name: DISC 1
-            type: discussion
-            title: Getting Started with Jupyter Notebooks
-            problems: 
+          type: discussion
+          title: Getting Started with Jupyter Notebooks
+          problems:
     - date: 2024-10-2
       events: 
         - name: LEC 3
@@ -37,7 +37,7 @@ days:
         - name: LAB 0
           type: lab
           title: Expressions and Data Types
-          url: 
+          url:
     - date: 2024-10-4
       events: 
         - name: LEC 4

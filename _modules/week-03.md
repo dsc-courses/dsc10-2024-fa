@@ -17,9 +17,9 @@ days:
               url: https://notes.dsc10.com/02-data_sets/apply.html
           keywords: functions, arguments, print vs. return, .apply, .reset_index
         - name: DISC 3
-            type: discussion
-            title: Querying, Grouping, and Plotting
-            problems: 
+          type: discussion
+          title: Querying, Grouping, and Plotting
+          problems:
     - date: 2024-10-16
       events: 
         - name: LEC 9
@@ -39,7 +39,7 @@ days:
         - name: LAB 2
           type: lab
           title: Data Visualizations and Functions
-          url: 
+          url:
     - date: 2024-10-18
       events: 
         - name: LEC 10
@@ -54,8 +54,8 @@ days:
           keywords: in, not, and, or, if, else, elif, for-loops, np.append, accumulator pattern
     - date: 2024-10-20
       events:
-          - name: HW 2
-            type: hw
-            title: DataFrames, Data Visualization, and Functions
-            url:
+        - name: HW 2
+          type: hw
+          title: DataFrames, Data Visualization, and Functions
+          url:
 ---

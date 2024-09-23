@@ -119,6 +119,7 @@ days:"""
 
         date_formatted = date_conv(date)
 
+        outstr = outstr.rstrip()
         outstr += f"""
     - date: {date_formatted}
       events: """
@@ -164,40 +165,40 @@ days:"""
           type: exam
           title: <b>{lecture}<b>"""
             elif lecture:  # we reach this when we have holidays, like July 4
-                outstr += f"""- markdown_content: <b>{lecture}<b>"""
+                outstr += f"""
+        - markdown_content: <b>{lecture}<b>"""
 
         if homework:
             outstr = outstr.rstrip()
             if "Project" in homework:
                 outstr += f"""
-          - name: PROJ
-            type: proj
-            title: {homework.strip()}
-            url:
-                """
+        - name: PROJ
+          type: proj
+          title: {homework.strip()}
+          url: """
             else:
                 hw_num, hw_name = homework.split(". ", 1)
                 outstr += f"""
-          - name: HW {hw_num}
-            type: hw
-            title: {hw_name.strip()}
-            url:
-                """
+        - name: HW {hw_num}
+          type: hw
+          title: {hw_name.strip()}
+          url: """
 
         if discussion:
             disc_num, disc_name = discussion.split(". ")
             outstr = outstr.rstrip()
-            outstr += f"""\n        - name: DISC {disc_num}
-            type: discussion
-            title: {disc_name}
-            problems: """
+            outstr += f"""
+        - name: DISC {disc_num}
+          type: discussion
+          title: {disc_name}
+          problems: """
             
         if survey:
             outstr += f"""
-          - name: SUR
-            type: survey
-            title: {survey}
-            url: """
+        - name: SUR
+          type: survey
+          title: {survey}
+          url: """
             
         #if practice:
         #    outstr += f"""
@@ -206,9 +207,9 @@ days:"""
         if quiz:
             quiz_num, quiz_description = quiz.split(". ", 1)
             outstr += f"""
-          - name: QUIZ {quiz_num}
-            type: quiz
-            title: {quiz_description}"""
+        - name: QUIZ {quiz_num}
+          type: quiz
+          title: {quiz_description}"""
 
     outstr = outstr.rstrip()
     outstr += "\n---"

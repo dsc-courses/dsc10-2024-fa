@@ -15,9 +15,9 @@ days:
               url: https://inferentialthinking.com/chapters/13/3/Confidence_Intervals.html
           keywords: interpreting CIs, robust vs. sensitive, center, standard deviation, Chebyshev
         - name: DISC 6
-            type: discussion
-            title: Sampling, Bootstrapping, and Confidence Intervals
-            problems: 
+          type: discussion
+          title: Sampling, Bootstrapping, and Confidence Intervals
+          problems:
     - date: 2024-11-6
       events: 
         - name: LEC 17
@@ -35,7 +35,7 @@ days:
         - name: LAB 4
           type: lab
           title: Simulation, Sampling, & Bootstrapping
-          url: 
+          url:
     - date: 2024-11-8
       events: 
         - name: LEC 18
@@ -50,8 +50,8 @@ days:
           keywords: distribution of the sample mean, square root law, CLT-based CIs
     - date: 2024-11-10
       events:
-          - name: HW 4
-            type: hw
-            title: Simulation, Sampling, Bootstrapping
-            url:
+        - name: HW 4
+          type: hw
+          title: Simulation, Sampling, Bootstrapping
+          url:
 ---

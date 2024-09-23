@@ -15,9 +15,9 @@ days:
               url: https://notes.dsc10.com/02-data_sets/querying.html
           keywords: .set_index, Booleans, querying, .shape, &, |, .take, .groupby, aggregation
         - name: DISC 2
-            type: discussion
-            title: Arrays and DataFrames
-            problems: 
+          type: discussion
+          title: Arrays and DataFrames
+          problems:
     - date: 2024-10-9
       events: 
         - name: LEC 6
@@ -30,15 +30,15 @@ days:
             - name: CIT 7.0-7.1
               url: https://inferentialthinking.com/chapters/07/Visualization.html
           keywords: .groupby, numerical vs. categorical, scatter plot, line plot, bar chart
-          - name: QUIZ 1
-            type: quiz
-            title: Quiz 1 covers Lectures 1-4
+        - name: QUIZ 1
+          type: quiz
+          title: Quiz 1 covers Lectures 1-4
     - date: 2024-10-10
       events:
         - name: LAB 1
           type: lab
           title: Arrays and DataFrames
-          url: 
+          url:
     - date: 2024-10-11
       events: 
         - name: LEC 7
@@ -53,8 +53,8 @@ days:
           keywords: distributions, density histograms, binning, total area, overlaid plots
     - date: 2024-10-13
       events:
-          - name: HW 1
-            type: hw
-            title: Basic Python, Arrays, and DataFrames
-            url:
+        - name: HW 1
+          type: hw
+          title: Basic Python, Arrays, and DataFrames
+          url:
 ---
