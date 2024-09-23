@@ -17,5 +17,5 @@ days:
         - name: SUR
           type: survey
           title: Welcome Survey
-          url: https://forms.gle/3GxRkRjnhSUDaGA46
+          url: https://forms.gle/Q71C5HGCYxYVsMyy6
 ---
