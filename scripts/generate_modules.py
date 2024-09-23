@@ -120,20 +120,19 @@ days:"""
         date_formatted = date_conv(date)
 
         outstr += f"""
-      - date: {date_formatted}
-        events:
-          """
+    - date: {date_formatted}
+      events: """
 
         # Lecture number
         if lec_num != 0:
-            outstr += f"""- name: LEC {lec_num}
-            type: lecture
-            title: {lecture}
-            url:
-            html:
-            podcast:
-            readings:
-            """
+            outstr += f"""
+        - name: LEC {lec_num}
+          type: lecture
+          title: {lecture}
+          url:
+          html:
+          podcast:
+          readings: """
 
             outstr = outstr.rstrip()
             read_str = "\n"
@@ -142,28 +141,28 @@ days:"""
                 links_list = links.split(", ")
                 num_readings = len(readings_list)
                 for j in range(num_readings):
-                    read_str += f"""              - name: {readings_list[j]}\n"""
-                    read_str += f"""                url: {links_list[j]}\n"""
-
-            outstr += f"""{read_str}"""
+                    read_str += f"""            - name: {readings_list[j]}\n"""
+                    read_str += f"""              url: {links_list[j]}\n"""
+                outstr += f"""{read_str}"""
                 
             if keywords:
-                outstr += f"""            keywords: {keywords}"""
+                outstr += f"""          keywords: {keywords}"""
                 
         else:
             if lab:
                 lab_num, lab_name = lab.split(". ")
                 outstr = outstr.rstrip()
                 outstr += f"""
-          - name: LAB {lab_num}
-            type: lab
-            title: {lab_name}
-            url: """
+        - name: LAB {lab_num}
+          type: lab
+          title: {lab_name}
+          url: """
 
             elif "Exam" in lecture:
-                outstr += f"""- name: EXAM
-            type: exam
-            title: <b>{lecture}<b>"""
+                outstr += f"""
+        - name: EXAM
+          type: exam
+          title: <b>{lecture}<b>"""
             elif lecture:  # we reach this when we have holidays, like July 4
                 outstr += f"""- markdown_content: <b>{lecture}<b>"""
 
@@ -188,7 +187,7 @@ days:"""
         if discussion:
             disc_num, disc_name = discussion.split(". ")
             outstr = outstr.rstrip()
-            outstr += f"""\n          - name: DISC {disc_num}
+            outstr += f"""\n        - name: DISC {disc_num}
             type: discussion
             title: {disc_name}
             problems: """
