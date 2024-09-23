@@ -400,7 +400,7 @@ There are four quizzes throughout the quarter, administered during your assigned
 - Quiz 3: Wednesday, November 13th
 - Quiz 4: Monday, November 25th
 
-We will count only your three highest quiz scores towards your grade. In other words, we will drop your lowest quiz score. With excellent participation, you will be able to drop a second quiz score, and therefore only count your best two.
+We will count only your three highest quiz scores towards your grade. In other words, we will drop your lowest quiz score.
 
 Quizzes are designed to give you low-stakes opportunities to practice solving problems on paper, with room for failure. You don't need to do well on every quiz to do well in the course.
 
@@ -435,7 +435,7 @@ There will be 14 participation points available:
 
 Score **10 points or higher for full participation credit**. If you earn fewer than 10 points, your participation grade will be the number of points earned out of 10.
 
-Score **12 points or higher to earn a bonus reward: a second quiz score dropped**. That is, if you score 12 or more participation points, only your best two of four quizzes will count for your grade.
+Score **12 points or higher to earn a bonus reward: a second dropped quiz, lab, or homework**. We will drop whichever assignment (a quiz, a lab, or a homework) that improves your grade the most. 
 
 ---
 
@@ -448,7 +448,7 @@ how grades will be computed:
 | Participation | 5% | |
 | Lab Assignments | 10% | drop lowest score |
 | Homework Assignments | 25% | drop lowest score |
-| Quizzes | 10% | drop lowest scores |
+| Quizzes | 10% | drop lowest score |
 | Midterm Project | 10% | |
 | Midterm Exam | 10% | |
 | Final Project | 10% | |
