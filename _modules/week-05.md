@@ -1,7 +1,7 @@
 ---
-    title: Week 5 – Midterm Exam
-    weekNumber: 5
-    days:
+title: Week 5 – Midterm Exam
+weekNumber: 5
+days:
       - date: 2024-10-28
         events:
           - name: LEC 14

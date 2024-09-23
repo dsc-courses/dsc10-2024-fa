@@ -1,7 +1,7 @@
 ---
-    title: Week 3 – Functions and Control Flow
-    weekNumber: 3
-    days:
+title: Week 3 – Functions and Control Flow
+weekNumber: 3
+days:
       - date: 2024-10-14
         events:
           - name: LEC 8

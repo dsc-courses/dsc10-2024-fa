@@ -1,7 +1,7 @@
 ---
-    title: Week 6 – Confidence Intervals and the Normal Distribution
-    weekNumber: 6
-    days:
+title: Week 6 – Confidence Intervals and the Normal Distribution
+weekNumber: 6
+days:
       - date: 2024-11-4
         events:
           - name: LEC 16

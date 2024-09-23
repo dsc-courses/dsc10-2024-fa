@@ -1,7 +1,7 @@
 ---
-    title: Week 1 – Python Basics
-    weekNumber: 1
-    days:
+title: Week 1 – Python Basics
+weekNumber: 1
+days:
       - date: 2024-9-30
         events:
           - name: LEC 2

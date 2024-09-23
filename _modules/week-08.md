@@ -1,7 +1,7 @@
 ---
-    title: Week 8 – Hypothesis and Permutation Testing
-    weekNumber: 8
-    days:
+title: Week 8 – Hypothesis and Permutation Testing
+weekNumber: 8
+days:
       - date: 2024-11-18
         events:
           - name: LEC 21

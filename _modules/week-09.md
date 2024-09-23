@@ -1,7 +1,7 @@
 ---
-    title: Week 9 – Prediction
-    weekNumber: 9
-    days:
+title: Week 9 – Prediction
+weekNumber: 9
+days:
       - date: 2024-11-25
         events:
           - name: LEC 24

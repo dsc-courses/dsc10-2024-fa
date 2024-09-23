@@ -1,7 +1,7 @@
 ---
-    title: Week 7 – Central Limit Theorem
-    weekNumber: 7
-    days:
+title: Week 7 – Central Limit Theorem
+weekNumber: 7
+days:
       - date: 2024-11-11
         events:
           - markdown_content: <b>No Lecture (Veterans Day 🎖️)<b>

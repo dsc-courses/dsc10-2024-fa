@@ -1,7 +1,7 @@
 ---
-    title: Week 10 – Review
-    weekNumber: 10
-    days:
+title: Week 10 – Review
+weekNumber: 10
+days:
       - date: 2024-12-2
         events:
           - name: LEC 26

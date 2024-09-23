@@ -1,7 +1,7 @@
 ---
-    title: Week 2 – DataFrames and Visualization
-    weekNumber: 2
-    days:
+title: Week 2 – DataFrames and Visualization
+weekNumber: 2
+days:
       - date: 2024-10-7
         events:
           - name: LEC 5

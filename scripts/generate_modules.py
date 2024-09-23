@@ -99,9 +99,9 @@ def write_week(i, dest="./_modules", write=True):
     week = week[week.apply(has_content, axis=1)] 
 
     outstr = f"""---
-    title: Week {i} – {week["Title"].iloc[0]}
-    weekNumber: {i}
-    days:"""
+title: Week {i} – {week["Title"].iloc[0]}
+weekNumber: {i}
+days:"""
 
     for day in week.itertuples(index=False):
         date = day.Date

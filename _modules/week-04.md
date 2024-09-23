@@ -1,7 +1,7 @@
 ---
-    title: Week 4 – Probability and Simulation
-    weekNumber: 4
-    days:
+title: Week 4 – Probability and Simulation
+weekNumber: 4
+days:
       - date: 2024-10-21
         events:
           - name: LEC 11
