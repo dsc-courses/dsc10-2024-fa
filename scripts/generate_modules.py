@@ -194,11 +194,21 @@ days:"""
           problems: """
             
         if survey:
-            outstr += f"""
-        - name: SUR
-          type: survey
-          title: {survey}
-          url: """
+            if '[' in survey and ']' in survey:
+                survey_name, survey_link = survey.split('](')
+                survey_name = survey_name[1:]
+                survey_link = survey_link[:-1]
+                outstr += f"""
+            - name: SUR
+              type: survey
+              title: {survey_name}
+              url: {survey_link}"""
+            else: 
+                outstr += f"""
+            - name: SUR
+              type: survey
+              title: {survey}
+              url: """
             
         #if practice:
         #    outstr += f"""
