@@ -14,11 +14,11 @@
             html:
             podcast:
             readings:
-- name: CIT 14.6
-  url: https://inferentialthinking.com/chapters/14/6/Choosing_a_Sample_Size.html
-- name: 11.1
-  url: https://inferentialthinking.com/chapters/11/1/Assessing_a_Model.html
-keywords: standard deviation of 0s and 1s, np.random.multinomial, Robert Swain jury
+              - name: CIT 14.6
+                url: https://inferentialthinking.com/chapters/14/6/Choosing_a_Sample_Size.html
+              - name: 11.1
+                url: https://inferentialthinking.com/chapters/11/1/Assessing_a_Model.html
+            keywords: standard deviation of 0s and 1s, np.random.multinomial, Robert Swain jury
           - name: QUIZ 3
             type: quiz
             title: Quiz 3 covers Lectures 13, 15-18
@@ -37,9 +37,9 @@ keywords: standard deviation of 0s and 1s, np.random.multinomial, Robert Swain j
             html:
             podcast:
             readings:
-- name: CIT 11.3
-  url: https://inferentialthinking.com/chapters/11/3/Decisions_and_Uncertainty.html
-keywords: null and alternative hypotheses, test statistic, fair or unfair coin
+              - name: CIT 11.3
+                url: https://inferentialthinking.com/chapters/11/3/Decisions_and_Uncertainty.html
+            keywords: null and alternative hypotheses, test statistic, fair or unfair coin
       - date: 2024-11-17
         events:
           - name: HW 5

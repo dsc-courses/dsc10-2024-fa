@@ -11,7 +11,7 @@
             html:
             podcast:
             readings:
-				  - name: DISC 5
+          - name: DISC 5
             type: discussion
             title: Probability and Simulation
             problems: 
@@ -29,9 +29,9 @@
             html:
             podcast:
             readings:
-- name: CIT 13.0-13.2
-  url: https://inferentialthinking.com/chapters/13/Estimation.html
-keywords: inference, bootstrapping, resample, np.percentile, confidence interval
+              - name: CIT 13.0-13.2
+                url: https://inferentialthinking.com/chapters/13/Estimation.html
+            keywords: inference, bootstrapping, resample, np.percentile, confidence interval
       - date: 2024-11-3
         events:
           - name: PROJ
