@@ -79,7 +79,7 @@ These are some videos we made to supplement a previous iteration of the course. 
 
 ## Practice Exams
 
-Past exams and detailed solutions can be found at [practice.dsc10.com](https://practice.dsc10.com). Use this site to help you prepare for the midterm and final exam.
+Past exams and detailed solutions can be found at [practice.dsc10.com](https://practice.dsc10.com). Use this site to help you prepare for quizzes and exams.
 
 
 ## UC San Diego Links
