@@ -31,7 +31,7 @@ Welcome to DSC 10! To start, read the [syllabus](https://dsc10.com/syllabus) car
 -->
 
 
-[Jump to the current week](#week-10-review){: .btn }
+[Jump to the current week](#week-0-welcome-to-dsc-10){: .btn }
 
 
 {% for module in site.modules %}
