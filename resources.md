@@ -17,16 +17,6 @@ nav_order: 4
 
 ## Supplemental Resources
 
-### Tutor-Created Resources
-
-We've compiled a collection of [**Tutor-Created Resources**](../tutorcreatedresources) that you might find useful for additional explanations and examples. Feel free to have a look around!
-
-### Diagrams
-
-All of the interactive diagrams from lecture, like the one below, are available on this [**Diagrams**](../diagrams) page. Check it out!
-
-<center><img src="../assets/images/animation-gif.gif" width=700></center>
-
 ### Course-Specific Resources
 
 These resources will directly complement the content from lectures and assignments in this course. Use them often!
@@ -34,6 +24,16 @@ These resources will directly complement the content from lectures and assignmen
 - [Textbook: Computational and Inferential Thinking](https://inferentialthinking.com)
 - [DSC 10 Reference Sheet](https://dsc-courses.github.io/bpd-reference/docs/documentation/intro/)
 - [`babypandas` notes](https://notes.dsc10.com)
+
+### Diagrams
+
+All of the interactive diagrams from lecture, like the one below, are available on this [**Diagrams**](../diagrams) page. Check it out!
+
+<center><img src="../assets/images/animation-gif.gif" width=700></center>
+
+### Tutor-Created Resources
+
+We've compiled a collection of [**Tutor-Created Resources**](../tutorcreatedresources) that you might find useful for additional explanations and examples. Feel free to have a look around!
 
 ### Python Extra Practice
 
