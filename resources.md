@@ -19,11 +19,11 @@ nav_order: 4
 
 ### Tutor-Created Resources
 
-DSC 10 tutors have created course related content, like the one below, that may be useful if you need some extra help. Check out the [**Tutor-Created Resources**](../tutorcreatedresources) page to check them out!
+We've compiled a collection of [**Tutor-Created Resources**](../tutorcreatedresources) that you might find useful for additional explanations and examples. Feel free to have a look around!
 
 ### Diagrams
 
-We've compiled all of the interactive diagrams that are found in lecture, like the one below, and put them in a separate [**Diagrams**](../diagrams) page. Check it out!
+All of the interactive diagrams from lecture, like the one below, are available on this [**Diagrams**](../diagrams) page. Check it out!
 
 <center><img src="../assets/images/animation-gif.gif" width=700></center>
 
@@ -32,15 +32,14 @@ We've compiled all of the interactive diagrams that are found in lecture, like t
 These resources will directly complement the content from lectures and assignments in this course. Use them often!
 
 - [Textbook: Computational and Inferential Thinking](https://inferentialthinking.com)
-- [DSC 10 Reference Sheet (handy summary)](https://drive.google.com/file/d/1ky0Np67HS2O4LO913P-ing97SJG0j27n/view?usp=sharing)
+- [DSC 10 Reference Sheet](https://dsc-courses.github.io/bpd-reference/docs/documentation/intro/)
 - [`babypandas` notes](https://notes.dsc10.com)
-- [`babypandas` Documentation](https://babypandas.readthedocs.io/en/latest/index.html)
-- [PandasTutor, a DataFrame visualization tool](https://pandastutor.com/vis.html)
 
 ### Python Extra Practice
 
 If you're looking for additional Python practice, these resources are generally helpful for Python learners, but are not specific to our course. Use them for futher explanations and practice exercises. 
 
+- [PandasTutor, a DataFrame visualization tool](https://pandastutor.com/vis.html)
 - [PythonTutor, a Python visualization tool](https://pythontutor.com/visualize.html#mode=edit)
 - [Software Carpentry](https://swcarpentry.github.io/python-novice-inflammation/)
 - [Code Academy](https://www.codecademy.com/learn/learn-python)
@@ -77,11 +76,6 @@ These are some videos we made to supplement a previous iteration of the course. 
 - [Bar Charts and `.str.contains`](https://youtu.be/OVTroiHby3g)
     - [`.str.contains` only](https://www.youtube.com/watch?v=TCcEhVA6Euw&list=PLDNbnocpJUhbczUw2Rw6bqreEECMvZ8gN&index=1)
 - [Line Plots and Sorting](https://www.youtube.com/watch?v=glzZ04D1kDg)
-
-### Review Videos
-
-- [For-loops](https://www.youtube.com/watch?v=DRxRvsVxACs&ab_channel=AbelSeyoum)
-- [Functions and `.apply`](https://www.youtube.com/watch?v=U99Cs78uMVg&ab_channel=AbelSeyoum)
 
 ## Practice Exams
 
