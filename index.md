@@ -13,8 +13,8 @@ nav_order: 1
 
 {{ site.staffersnobio }}
 
-<!--{: .warning }
-**Important**: 9AM and 10AM lectures are canceled today. Please come to the 11AM lecture instead or [watch this recording](https://podcast.ucsd.edu/watch/wi24/dsc10_a00/26). I have a sore throat and can't talk for three hours today. Thanks for understanding!-->
+{: .warning }
+This site is **under construction**. Anything you read here is not finalized. This disclaimer will be removed when the site is ready for Fall 2024.
 
 <!--{: .success }
 >The Final Exam is **this Saturday, June 8th from 7-10PM** in Solis 104 and Solis 107. You will be assigned a seat in one of these rooms.  
@@ -26,8 +26,9 @@ nav_order: 1
 **Tip: When working on assignments, use Ctrl+F on this page to search for a keyword and quickly find the relevant lecture. Click the ✏️ emoji to open a static version of the lecture for reference, which is much faster than loading it on DataHub. Also, make sure to use the [reference sheet](https://drive.google.com/file/d/1ky0Np67HS2O4LO913P-ing97SJG0j27n/view?usp=sharing)!**-->
 
 
-{: .success }
+<!--{: .success }
 Welcome to DSC 10! To start, read the [syllabus](https://dsc10.com/syllabus) carefully, paying special attention to the ["Getting Started"](https://dsc10.com/syllabus/#-getting-started) section. Make sure to complete the [Welcome Survey](https://forms.gle/4j7t87VWsaJCYbnn8) and [Pretest](https://practice.dsc10.com/pretest/) to get off to a good start!
+-->
 
 
 [Jump to the current week](#week-10-review){: .btn }
