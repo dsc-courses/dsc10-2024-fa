@@ -162,7 +162,7 @@ them, too (though they're all linked at the top of this website).
 
 ### Welcome Survey
 
-Please fill out this short [Welcome Survey](https://forms.gle/Q71C5HGCYxYVsMyy6) at the start of the quarter. This is required of all students, and you will receive some participation credit for completing it.
+Please fill out this short [Welcome Survey](https://forms.gle/Q71C5HGCYxYVsMyy6) at the start of the quarter. This is required of all students.
 
 ### Pretest
 
@@ -416,7 +416,20 @@ schedule. Please refer to the homepage of this website for the most up-to-date s
 
 ---
 
-## Participation
+## 🙋 Participation
+
+Actively participating in the course is highly beneficial to your learning. Engaging with the course material, the course staff, and your peers will set you up for success in this course and in other data science courses you may take in the future. To encourage your active participation, a part of your overall grade will be determined by participation points. 
+
+There will be 14 participation points available:
+
+- 3 points for the Pretest, graded for honest effort
+- 1 point for passing a Syllabus Check at 80% or higher
+- 1 point for completing SETs (Student Evaluations of Teaching) and an internal End-Of-Quarter Survey 
+- 1 point for attending each Discussion secction (9 points available)
+
+Score 10 points or higher for full participation credit. Score less than 10 points, and your participation score is the number of points earned, out of 10.
+
+Score 12 points or higher to earn a bonus reward: a second quiz score dropped. That is, if you score 12 or more participation points, only your best two of four quizzes will count for your grade.
 
 ---
 
@@ -426,9 +439,9 @@ The table below shows how your mastery of class material will be assessed and
 how grades will be computed:
 
 | **Component** | **Weight** | **Notes** |
-| Participation | 10% | |
+| Participation | 5% | |
 | Lab Assignments | 10% | drop lowest score |
-| Homework Assignments | 20% | drop lowest score |
+| Homework Assignments | 25% | drop lowest score |
 | Quizzes | 10% | drop lowest scores |
 | Midterm Project | 10% | |
 | Midterm Exam | 10% | |
@@ -442,7 +455,7 @@ regardless of the number of points they are graded out of.
 
 If you'd like to request a regrade on any assignment, you must do so within one
 week of the assignment being graded. If you think there is a problem with the
-autograder,  please fill out the [Autograder Regrade Request Form](https://forms.gle/5LMq7GEneFTWXzHL9). If you think there is a problem with how your written question was graded, submit a regrade request through Gradescope.
+autograder,  please fill out the [Autograder Regrade Request Form](https://forms.gle/M58rTP5a6sPrSpFq9). If you think there is a problem with how your written question was graded, submit a regrade request through Gradescope.
 
 ### Letter Grades and Incompletes
 
@@ -619,9 +632,11 @@ Please understand that others’ backgrounds, perspectives and experiences may b
 different than your own, and help us to build an environment where everyone is
 respected and feels comfortable.
 
+### 
+
 ---
 
-## 🙋 Waitlist FAQs
+## ❓ Waitlist FAQs
 
 **I am on the waitlist, but I really want to get into the course. Can you let me in?**
 
