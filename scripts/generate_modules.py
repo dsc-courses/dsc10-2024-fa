@@ -9,7 +9,7 @@ import sys
 import numpy as np
 
 # Edit these variables before running script
-CSV_PATH = "Lecture Schedule – DSC 10, Spring 2024.csv"
+CSV_PATH = "./scripts/Lecture Schedule – DSC 10, Fall 2024.csv"
 DATE_FORMAT = "DATE MONTH/DAY"
 YEAR = 2024
 START_FROM_WEEK = 1 #only future weeks!
@@ -94,7 +94,7 @@ def has_content(row):
 
 
 # for a single week
-def write_week(i, dest="../_modules", write=True):
+def write_week(i, dest="./_modules", write=True):
     week = df.query("Week == @i")
     week = week[week.apply(has_content, axis=1)] 
 
@@ -126,54 +126,79 @@ def write_week(i, dest="../_modules", write=True):
 
         # Lecture number
         if lec_num != 0:
-            outstr += f""""**LEC {lec_num}**{{: .label .label-lecture }} {lecture}":"""
+            outstr += f"""- name: LEC {lec_num}
+            type: lecture
+            title: {lecture}
+            url:
+            html:
+            podcast:
+            readings:
+            """
 
-            combined = ""
+            outstr = outstr.rstrip()
+            read_str = "\n"
             if readings:
                 readings_list = readings.split(", ")
                 links_list = links.split(", ")
                 num_readings = len(readings_list)
                 for j in range(num_readings):
-                    combined += "["+readings_list[j]+"]("+links_list[j]+")"
-                    if j < num_readings - 1:
-                        combined += ", "
-                outstr += f"""
-            "{combined}" """
+                    read_str += f"\t\t\t\t\t\t\t- name: {readings_list[j]}\n"
+                    read_str += f"\t\t\t\t\t\t\t  url: {links_list[j]}\n"
+
+            outstr += f"""{read_str}"""
                 
             if keywords:
-                outstr += f"""
-          "<small><i><span style='display: inline-block; padding-left: 80px'><b>Keywords:</b> {keywords} </span></i></small>":"""
+                outstr += f"\t\t\t\t\t\tkeywords: {keywords}"
                 
         else:
             if lab:
                 lab_num, lab_name = lab.split(". ")
+                outstr = outstr.rstrip()
                 outstr += f"""
-          "**LAB {lab_num}**{{: .label .label-lab }} **{lab_name.strip()}**":"""
+          - name: LAB {lab_num}
+            type: lab
+            title: {lab_name}
+            url: """
 
             elif "Exam" in lecture:
-                outstr += f"""
-          "**EXAM**{{: .label .label-exam }} **{lecture.strip()}**":"""
+                outstr += f"""- name: EXAM
+            type: exam
+            title: <b>{lecture}<b>"""
             elif lecture:  # we reach this when we have holidays, like July 4
-                outstr += f"""
-          "{lecture}":"""
+                outstr += f"""- markdown_content: <b>{lecture}<b>"""
 
         if homework:
+            outstr = outstr.rstrip()
             if "Project" in homework:
                 outstr += f"""
-          "**PROJ**{{: .label .label-proj }} **{homework.strip()}**":"""
+          - name: PROJ
+            type: proj
+            title: {homework.strip()}
+            url:
+                """
             else:
                 hw_num, hw_name = homework.split(". ", 1)
                 outstr += f"""
-          "**HW {hw_num}**{{: .label .label-hw }} **{hw_name.strip()}**":"""
+          - name: HW {hw_num}
+            type: hw
+            title: {hw_name.strip()}
+            url:
+                """
 
         if discussion:
             disc_num, disc_name = discussion.split(". ")
-            outstr += f"""
-          "**DISC {disc_num}**{{: .label .label-disc }} **{disc_name.strip()}**":"""
+            outstr = outstr.rstrip()
+            outstr += f"""\n\t\t\t\t  - name: DISC {disc_num}
+            type: discussion
+            title: {disc_name}
+            problems: """
             
         if survey:
             outstr += f"""
-          "**SUR**{{: .label .label-survey }} {survey.strip()}":"""
+          - name: SUR
+            type: survey
+            title: {survey}
+            url: """
             
         #if practice:
         #    outstr += f"""
@@ -182,8 +207,11 @@ def write_week(i, dest="../_modules", write=True):
         if quiz:
             quiz_num, quiz_description = quiz.split(". ", 1)
             outstr += f"""
-          "**QUIZ {quiz_num}**{{: .label .label-quiz }} {quiz_description.strip()}":"""
+          - name: QUIZ {quiz_num}
+            type: quiz
+            title: {quiz_description}"""
 
+    outstr = outstr.rstrip()
     outstr += "\n---"
 
     if write:
