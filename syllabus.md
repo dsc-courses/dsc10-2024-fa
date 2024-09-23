@@ -47,9 +47,9 @@ The contents of this course come from UC Berkeley's Data 8 course, created by An
 ### Lecture
 
 There are three lecture sections:
-- Section A: MWF 9-9:50AM in {{ site.center_109 }}.
-- Section B: MWF 10-10:50AM in {{ site.center_113 }}.
-- Section C: MWF 1-1:50PM in {{ site.solis_104 }}.
+- Section A: MWF 9-9:50AM in Center 109.
+- Section B: MWF 10-10:50AM in Center 113.
+- Section C: MWF 1-1:50PM in Solis 104.
 
 Lecture is meant to introduce you to the main concepts of the course. In-person attendance is never required, but is strongly encouraged when possible, as you’ll get the opportunity to ask questions, answer ungraded concept-check polls, and participate in discussion.
 
