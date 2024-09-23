@@ -39,10 +39,10 @@ days:
           type: lab
           title: DataFrames, Control Flow, and Probability
           url: 
-            - name: SUR
-              type: survey
-              title: Mid-Quarter Survey
-              url:
+        - name: SUR
+          type: survey
+          title: Mid-Quarter Survey
+          url:
     - date: 2024-10-25
       events: 
         - name: LEC 13
