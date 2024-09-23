@@ -142,13 +142,13 @@ def write_week(i, dest="./_modules", write=True):
                 links_list = links.split(", ")
                 num_readings = len(readings_list)
                 for j in range(num_readings):
-                    read_str += f"\t\t\t\t\t\t\t- name: {readings_list[j]}\n"
-                    read_str += f"\t\t\t\t\t\t\t  url: {links_list[j]}\n"
+                    read_str += f"""- name: {readings_list[j]}\n"""
+                    read_str += f"""  url: {links_list[j]}\n"""
 
             outstr += f"""{read_str}"""
                 
             if keywords:
-                outstr += f"\t\t\t\t\t\tkeywords: {keywords}"
+                outstr += f"""keywords: {keywords}"""
                 
         else:
             if lab:

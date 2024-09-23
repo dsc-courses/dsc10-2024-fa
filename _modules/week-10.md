@@ -11,9 +11,9 @@
             html:
             podcast:
             readings:
-							- name: CIT 15.5-16.3
-							  url: https://inferentialthinking.com/chapters/15/5/Visual_Diagnostics.html
-						keywords: residuals, residual plots, patterns, datasaurus dozen, prediction intervals
+- name: CIT 15.5-16.3
+  url: https://inferentialthinking.com/chapters/15/5/Visual_Diagnostics.html
+keywords: residuals, residual plots, patterns, datasaurus dozen, prediction intervals
 				  - name: DISC 9
             type: discussion
             title: Regression

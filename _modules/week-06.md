@@ -11,9 +11,9 @@
             html:
             podcast:
             readings:
-							- name: CIT 13.3-13.4
-							  url: https://inferentialthinking.com/chapters/13/3/Confidence_Intervals.html
-						keywords: interpreting CIs, robust vs. sensitive, center, standard deviation, Chebyshev
+- name: CIT 13.3-13.4
+  url: https://inferentialthinking.com/chapters/13/3/Confidence_Intervals.html
+keywords: interpreting CIs, robust vs. sensitive, center, standard deviation, Chebyshev
 				  - name: DISC 6
             type: discussion
             title: Sampling, Bootstrapping, and Confidence Intervals
@@ -27,9 +27,9 @@
             html:
             podcast:
             readings:
-							- name: CIT 14.2-14.3
-							  url: https://inferentialthinking.com/chapters/14/2/Variability.html
-						keywords: Chebyshev, standard units, normal distribution, CDF, inflection points
+- name: CIT 14.2-14.3
+  url: https://inferentialthinking.com/chapters/14/2/Variability.html
+keywords: Chebyshev, standard units, normal distribution, CDF, inflection points
       - date: 2024-11-7
         events:
           - name: LAB 4
@@ -45,9 +45,9 @@
             html:
             podcast:
             readings:
-							- name: CIT 14.4-14.5
-							  url: https://inferentialthinking.com/chapters/14/4/Central_Limit_Theorem.html
-						keywords: distribution of the sample mean, square root law, CLT-based CIs
+- name: CIT 14.4-14.5
+  url: https://inferentialthinking.com/chapters/14/4/Central_Limit_Theorem.html
+keywords: distribution of the sample mean, square root law, CLT-based CIs
       - date: 2024-11-10
         events:
           - name: HW 4

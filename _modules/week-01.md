@@ -11,9 +11,9 @@
             html:
             podcast:
             readings:
-							- name: BPD 1-6
-							  url: https://notes.dsc10.com/01-getting_started/tools.html
-						keywords: Jupyter notebooks, expressions, variables, assignment, functions, int, float
+- name: BPD 1-6
+  url: https://notes.dsc10.com/01-getting_started/tools.html
+keywords: Jupyter notebooks, expressions, variables, assignment, functions, int, float
 				  - name: DISC 1
             type: discussion
             title: Getting Started with Jupyter Notebooks
@@ -27,11 +27,11 @@
             html:
             podcast:
             readings:
-							- name: BPD 7-8
-							  url: https://notes.dsc10.com/02-data_sets/arrays.html
-							- name: CIT 14.1
-							  url: https://inferentialthinking.com/chapters/14/1/Properties_of_the_Mean.html#
-						keywords: string methods, mean, median, lists, arrays, array arithmetic
+- name: BPD 7-8
+  url: https://notes.dsc10.com/02-data_sets/arrays.html
+- name: CIT 14.1
+  url: https://inferentialthinking.com/chapters/14/1/Properties_of_the_Mean.html#
+keywords: string methods, mean, median, lists, arrays, array arithmetic
       - date: 2024-10-3
         events:
           - name: LAB 0
@@ -47,7 +47,7 @@
             html:
             podcast:
             readings:
-							- name: BPD 9
-							  url: https://notes.dsc10.com/02-data_sets/accessing.html
-						keywords: array methods, np.arange, .read_csv, .get, .assign, .sort_values, .iloc, .loc, index
+- name: BPD 9
+  url: https://notes.dsc10.com/02-data_sets/accessing.html
+keywords: array methods, np.arange, .read_csv, .get, .assign, .sort_values, .iloc, .loc, index
 ---

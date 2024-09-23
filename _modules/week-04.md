@@ -11,9 +11,9 @@
             html:
             podcast:
             readings:
-							- name: CIT 9.5
-							  url: https://inferentialthinking.com/chapters/09/5/Finding_Probabilities.html
-						keywords: event, conditional prob., multiplication and addition rules, independence
+- name: CIT 9.5
+  url: https://inferentialthinking.com/chapters/09/5/Finding_Probabilities.html
+keywords: event, conditional prob., multiplication and addition rules, independence
 				  - name: DISC 4
             type: discussion
             title: Functions, DataFrames, and Control Flow
@@ -27,9 +27,9 @@
             html:
             podcast:
             readings:
-							- name: CIT 9.3-9.4
-							  url: https://inferentialthinking.com/chapters/09/3/Simulation.html
-						keywords: np.random.choice, replacement, np.count_nonzero, coin flipping, Monty Hall
+- name: CIT 9.3-9.4
+  url: https://inferentialthinking.com/chapters/09/3/Simulation.html
+keywords: np.random.choice, replacement, np.count_nonzero, coin flipping, Monty Hall
           - name: QUIZ 2
             type: quiz
             title: Quiz 2 covers Lectures 5-10
@@ -52,9 +52,9 @@
             html:
             podcast:
             readings:
-							- name: CIT 10.0-10.4
-							  url: https://inferentialthinking.com/chapters/10/Sampling_and_Empirical_Distributions.html
-						keywords: probability vs. empirical distribution, SRS, .sample, parameter, statistic
+- name: CIT 10.0-10.4
+  url: https://inferentialthinking.com/chapters/10/Sampling_and_Empirical_Distributions.html
+keywords: probability vs. empirical distribution, SRS, .sample, parameter, statistic
       - date: 2024-10-27
         events:
           - name: HW 3
