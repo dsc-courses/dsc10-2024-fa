@@ -170,6 +170,12 @@ DSC 10’s only prerequisite is high school algebra. In order to gauge your prep
 
 The pretest will be graded based on honest effort, not on the correctness of your responses. You will earn participation credit for completing the pretest to the best of your ability. We'll release solutions to the pretest after the due date, and you are highly encouraged to check how you did and learn from it.
 
+### Syllabus Check
+
+To demonstrate that you have read and understood the policies on the syllabus and course website, you'll be asked to complete a Syllabus Check, which is a short quiz about the information contained on the syllabus and course website. You will earn participation credit by completing the Syllabus Check with a score of 80% or higher. 
+
+If you have questions about any course-related policies in the future, always refer to the syllabus and course website first!
+
 ---
 
 ## 💬 Communication
@@ -427,9 +433,9 @@ There will be 14 participation points available:
 - 1 point for completing SETs (Student Evaluations of Teaching) and an internal End-Of-Quarter Survey 
 - 1 point for attending each Discussion secction (9 points available)
 
-Score 10 points or higher for full participation credit. Score less than 10 points, and your participation score is the number of points earned, out of 10.
+Score **10 points or higher for full participation credit**. If you earn fewer than 10 points, your participation grade will be the number of points earned out of 10.
 
-Score 12 points or higher to earn a bonus reward: a second quiz score dropped. That is, if you score 12 or more participation points, only your best two of four quizzes will count for your grade.
+Score **12 points or higher to earn a bonus reward: a second quiz score dropped**. That is, if you score 12 or more participation points, only your best two of four quizzes will count for your grade.
 
 ---
 
@@ -632,7 +638,9 @@ Please understand that others’ backgrounds, perspectives and experiences may b
 different than your own, and help us to build an environment where everyone is
 respected and feels comfortable.
 
-### 
+### Satisfactory Academic Progress for Financial Aid
+
+Satisfactory Academic Progress (SAP) refers to the academic standards students must maintain to remain eligible for federal, state, and institutional financial aid. If you are receiving financial aid, please ensure you review the [SAP requirements and the appeals process](https://fas.ucsd.edu/forms-and-resources/sap/index.html).
 
 ---
 
@@ -640,11 +648,13 @@ respected and feels comfortable.
 
 **I am on the waitlist, but I really want to get into the course. Can you let me in?**
 
-Sorry, but instructors are not able to enroll students in classes.
+Sorry, but instructors are not able to enroll students in classes. There is nothing we can do let you into the course.
 
 **I am on the waitlist, so how can I keep up with the course?**
 
-Waitlisted to students may attend lecture and discussion, space-permitting, and can also watch podcast recordings. You can (and should) still submit assignments if you are on the waitlist. Waitlisted students should have access to DataHub to work on assignments. You may need to add yourself to some course tools; see the [Getting Started](#-getting-started) section of the syllabus.
+Waitlisted to students may attend lecture and discussion, space-permitting, and can also watch podcast recordings. You can (and should) still submit assignments if you are on the waitlist. If you get off the waitlist and are able to join the class, you will not get any extensions on past-due assignments.
+
+Waitlisted students should have access to DataHub to work on assignments. You may need to add yourself to some course tools; see the [Getting Started](#-getting-started) section of the syllabus. 
 
 **What are my chances of getting off the waitlist?**
 
