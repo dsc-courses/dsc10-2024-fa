@@ -25,7 +25,7 @@ As a disclaimer, these materials are provided to help you study, but they are no
 
 
 ### Jupyter Notebook Keyboard Shortcuts
-### by Pranav Rajaram
+#### by Pranav Rajaram
 {: .no_toc }
 
 <center>
@@ -39,7 +39,7 @@ As a disclaimer, these materials are provided to help you study, but they are no
 </center>
 
 ### Basic Coding Tips and Error Messages
-### by Kathleen Nguyen
+#### by Kathleen Nguyen
 {: .no_toc }
 
 <center>
@@ -54,7 +54,7 @@ As a disclaimer, these materials are provided to help you study, but they are no
 
 <!-- commented out because we don't cover dictionaries, add back if you are covering dictionaries
 ### Key Error for Dictionaries
-### by Raine Hoang
+#### by Raine Hoang
 {: .no_toc }
 
 <center>
@@ -70,13 +70,13 @@ As a disclaimer, these materials are provided to help you study, but they are no
 
 
 ### Common Errors and Keyboard Shortcuts in Jupyter Notebooks 
-### by Aaron Rasin, Bill Wang, Leena Kang
+#### by Aaron Rasin, Bill Wang, Leena Kang
 {: .no_toc }
 
 <a href="https://github.com/BillWang04/dsc95_final_project">Open Here</a>
 
 ### Variable Names
-### by Raine Hoang
+#### by Raine Hoang
 {: .no_toc }
 
 <center>
@@ -96,7 +96,7 @@ As a disclaimer, these materials are provided to help you study, but they are no
 ## Strings, Series, and Arrays
 
 ### String Methods 
-### by Keenan Serrano, Norah Kerendian, Ylesia Wu
+#### by Keenan Serrano, Norah Kerendian, Ylesia Wu
 {: .no_toc }
 <center>
   
@@ -111,7 +111,7 @@ As a disclaimer, these materials are provided to help you study, but they are no
 
 
 ### Series String Methods 
-### by Keenan Serrano, Norah Kerendian, Ylesia Wu
+#### by Keenan Serrano, Norah Kerendian, Ylesia Wu
 {: .no_toc }
 <center>
 
@@ -124,7 +124,7 @@ As a disclaimer, these materials are provided to help you study, but they are no
 </center>
 
 ### `.str.contains()` and Other String Methods 
-### by Michelle Hong
+#### by Michelle Hong
 {: .no_toc }
 <center>
 
@@ -137,7 +137,7 @@ As a disclaimer, these materials are provided to help you study, but they are no
 </center>
 
 ### String, Series, and Array Methods 
-### by Sophie Wang
+#### by Sophie Wang
 {: .no_toc }
 <center>
 
@@ -150,7 +150,7 @@ As a disclaimer, these materials are provided to help you study, but they are no
 </center>
 
 ### Accessing Array Elements and Out of Bounds Errors
-### by Raine Hoang
+#### by Raine Hoang
 {: .no_toc }
 
 <center>
@@ -168,14 +168,14 @@ As a disclaimer, these materials are provided to help you study, but they are no
 ## DataFrames
 
 ### DataFrame Review 
-### by Nathaniel Del Rosario, Ashley Ho, Chaninder Rishi
+#### by Nathaniel Del Rosario, Ashley Ho, Chaninder Rishi
 {: .no_toc }
 
 <a href="https://www.notion.so/DSC-10-DataFrames-Review-c072733a886c4b5985379750deae3658">Open Here</a>
 
 
 ### `.get()`
-### by Raine Hoang
+#### by Raine Hoang
 {: .no_toc }
 
 <center>
@@ -189,7 +189,7 @@ As a disclaimer, these materials are provided to help you study, but they are no
 </center>
 
 ### Query Examples 
-### by Keenan Serrano, Norah Kerendian, Ylesia Wu
+#### by Keenan Serrano, Norah Kerendian, Ylesia Wu
 {: .no_toc }
 
 <center>
@@ -203,7 +203,7 @@ As a disclaimer, these materials are provided to help you study, but they are no
 </center>
 
 ### `.groupby()`
-### by Kate Feng
+#### by Kate Feng
 {: .no_toc }
 
 <center>
@@ -217,7 +217,7 @@ As a disclaimer, these materials are provided to help you study, but they are no
 </center>
 
 ### When to Use `.groupby()`
-### by Zoe Ludena
+#### by Zoe Ludena
 {: .no_toc }
 
 <center>
@@ -231,7 +231,7 @@ As a disclaimer, these materials are provided to help you study, but they are no
 </center>
 
 ### Aggregation Methods for `.groupby()`
-### by Raine Hoang
+#### by Raine Hoang
 {: .no_toc }
 
 <center>
@@ -245,7 +245,7 @@ As a disclaimer, these materials are provided to help you study, but they are no
 </center>
 
 ### Number of Rows After a Merge 
-### by Jason Huynh
+#### by Jason Huynh
 {: .no_toc }
 
 <center>
@@ -259,7 +259,7 @@ As a disclaimer, these materials are provided to help you study, but they are no
 </center>
 
 ### Merge 
-### by Ester Tsai
+#### by Ester Tsai
 {: .no_toc }
 
 <center>
@@ -276,7 +276,7 @@ As a disclaimer, these materials are provided to help you study, but they are no
 </center>
 
 ### Data Structures (Lists, Arrays, DataFrames, and Series)
-### by Minchan Kim
+#### by Minchan Kim
 {: .no_toc }
 
 <center>
@@ -295,7 +295,7 @@ As a disclaimer, these materials are provided to help you study, but they are no
 ## Functions
 
 ### Return Outside Function Error
-### by Raine Hoang
+#### by Raine Hoang
 {: .no_toc }
 
 <center>
@@ -309,7 +309,7 @@ As a disclaimer, these materials are provided to help you study, but they are no
 </center>
 
 ### Print vs. Return
-### by Raine Hoang
+#### by Raine Hoang
 {: .no_toc }
 
 <center>
@@ -323,7 +323,7 @@ As a disclaimer, these materials are provided to help you study, but they are no
 </center>
 
 ### Functions and `.apply()`
-### by Abel Seyoum
+#### by Abel Seyoum
 {: .no_toc }
 
 <center>
@@ -342,7 +342,7 @@ As a disclaimer, these materials are provided to help you study, but they are no
 ## For-Loops
 
 ### For-Loops 
-### by Abel Seyoum
+#### by Abel Seyoum
 {: .no_toc }
 
 <center>
@@ -356,7 +356,7 @@ As a disclaimer, these materials are provided to help you study, but they are no
 </center>
 
 ### For-Loops and the Accumlator Pattern
-### by Raine Hoang
+#### by Raine Hoang
 {: .no_toc }
 
 <center>
@@ -374,7 +374,7 @@ As a disclaimer, these materials are provided to help you study, but they are no
 ## Probability
 
 ### Probability Reference Sheet 
-### by Suhani Sharma
+#### by Suhani Sharma
 {: .no_toc }
 
 <center>
@@ -388,7 +388,7 @@ As a disclaimer, these materials are provided to help you study, but they are no
 </center>
 
 ### Probability Review 
-### by Athulith Paraselli
+#### by Athulith Paraselli
 {: .no_toc }
 
 <center>
@@ -406,7 +406,7 @@ As a disclaimer, these materials are provided to help you study, but they are no
 ## Statistics
 
 ### Which Statistical Method to Use
-### by Claire Wang
+#### by Claire Wang
 {: .no_toc }
 
 <center>
@@ -421,7 +421,7 @@ As a disclaimer, these materials are provided to help you study, but they are no
 
 
 ### All About TVD 
-### by Calvin Nguyen
+#### by Calvin Nguyen
 {: .no_toc }
 
 <center>
@@ -436,7 +436,7 @@ As a disclaimer, these materials are provided to help you study, but they are no
 
 
 ### What are p-values?
-### by Daniel Budidharma
+#### by Daniel Budidharma
 {: .no_toc }
 
 <center>
@@ -451,7 +451,7 @@ As a disclaimer, these materials are provided to help you study, but they are no
 
 
 ### How to Choose Test Statistics for Hypothesis Testing 
-### by Cici Xu
+#### by Cici Xu
 {: .no_toc }
 
 <center>
