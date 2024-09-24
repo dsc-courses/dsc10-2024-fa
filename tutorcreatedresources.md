@@ -66,7 +66,7 @@ As a disclaimer, these materials are provided to help you study, but they are no
 
 </center>
 
-#### Keyword Errors
+#### Key Error for Dictionaries
 #### by Raine Hoang
 {: .no_toc }
 
@@ -82,47 +82,6 @@ As a disclaimer, these materials are provided to help you study, but they are no
 
 </center>
 
-#### Accessing Array Elements and Out of Bounds Errors
-#### by Raine Hoang
-{: .no_toc }
-
-<center>
-
-<iframe src="https://docs.google.com/presentation/d/1_gbSBOGNSqBq310yp239TTLIWl4oS5zGIEH7xUeIVSM/embed?start=false&loop=false&delayms=3000" frameborder="0" width="560" height="315" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
-
-<br>
-
-(<a href="https://docs.google.com/presentation/d/1_gbSBOGNSqBq310yp239TTLIWl4oS5zGIEH7xUeIVSM/edit?usp=sharing">source</a>)
-
-</center>
-
-#### Return Outside Function Error
-#### by Raine Hoang
-{: .no_toc }
-
-<center>
-
-<iframe src="https://docs.google.com/presentation/d/1DdQW-UmeNCqBtdlBaYrsyxu-7lqaOQxLXUcFn_G-z3U/embed?start=false&loop=false&delayms=3000" frameborder="0" width="560" height="315" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
-
-<br>
-
-(<a href="https://docs.google.com/presentation/d/1DdQW-UmeNCqBtdlBaYrsyxu-7lqaOQxLXUcFn_G-z3U/edit?usp=sharing">source</a>)
-
-</center>
-
-#### Print vs. Return
-#### by Raine Hoang
-{: .no_toc }
-
-<center>
-
-<iframe src="https://docs.google.com/presentation/d/1ZPIHPdpLegkSSaURwmYo7PwxAfPo9W_kSu0UL0R2lIk/embed?start=false&loop=false&delayms=3000" frameborder="0" width="560" height="315" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
-
-<br>
-
-(<a href="https://docs.google.com/presentation/d/1ZPIHPdpLegkSSaURwmYo7PwxAfPo9W_kSu0UL0R2lIk/edit?usp=sharing">source</a>)
-
-</center>
 
 #### Error Handling and Keyboard Shortcuts in Jupyter Notebooks 
 #### by Aaron Rasin, Bill Wang, Leena Kang
@@ -186,6 +145,20 @@ As a disclaimer, these materials are provided to help you study, but they are no
 <br>
 
 (<a href="https://www.youtube.com/watch?v=J05wJtO3CEU&ab_channel=SophieWang">source</a>)
+
+</center>
+
+#### Accessing Array Elements and Out of Bounds Errors
+#### by Raine Hoang
+{: .no_toc }
+
+<center>
+
+<iframe src="https://docs.google.com/presentation/d/1_gbSBOGNSqBq310yp239TTLIWl4oS5zGIEH7xUeIVSM/embed?start=false&loop=false&delayms=3000" frameborder="0" width="560" height="315" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
+<br>
+
+(<a href="https://docs.google.com/presentation/d/1_gbSBOGNSqBq310yp239TTLIWl4oS5zGIEH7xUeIVSM/edit?usp=sharing">source</a>)
 
 </center>
 
@@ -313,6 +286,38 @@ As a disclaimer, these materials are provided to help you study, but they are no
 
 (<a href="https://www.youtube.com/watch?v=eJ1f5EB4mfI&ab_channel=MinchanKim">source</a>)
 
+
+</center>
+
+<hr>
+
+### Functions
+
+#### Return Outside Function Error
+#### by Raine Hoang
+{: .no_toc }
+
+<center>
+
+<iframe src="https://docs.google.com/presentation/d/1DdQW-UmeNCqBtdlBaYrsyxu-7lqaOQxLXUcFn_G-z3U/embed?start=false&loop=false&delayms=3000" frameborder="0" width="560" height="315" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
+<br>
+
+(<a href="https://docs.google.com/presentation/d/1DdQW-UmeNCqBtdlBaYrsyxu-7lqaOQxLXUcFn_G-z3U/edit?usp=sharing">source</a>)
+
+</center>
+
+#### Print vs. Return
+#### by Raine Hoang
+{: .no_toc }
+
+<center>
+
+<iframe src="https://docs.google.com/presentation/d/1ZPIHPdpLegkSSaURwmYo7PwxAfPo9W_kSu0UL0R2lIk/embed?start=false&loop=false&delayms=3000" frameborder="0" width="560" height="315" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
+<br>
+
+(<a href="https://docs.google.com/presentation/d/1ZPIHPdpLegkSSaURwmYo7PwxAfPo9W_kSu0UL0R2lIk/edit?usp=sharing">source</a>)
 
 </center>
 
