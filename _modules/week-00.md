@@ -19,11 +19,11 @@ days:
           type: survey
           title: Welcome Survey
           url: https://forms.gle/Q71C5HGCYxYVsMyy6
-    - name: SYL
+    	- name: SYL
           type: survey
           title: Syllabus Check
           url: https://forms.gle/bKFYExLq6dR4usm68
-    - name: PRE
+    	- name: PRE
           type: survey
           title: Pretest
           url: https://practice.dsc10.com/pretest/index.html
