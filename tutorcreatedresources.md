@@ -25,7 +25,8 @@ As a disclaimer, these materials are provided to help you study, but they are no
 
 
 #### Jupyter Notebook Keyboard Shortcuts
-by Pranav Rajaram
+#### by Pranav Rajaram
+{: .no_toc }
 
 <center>
 
