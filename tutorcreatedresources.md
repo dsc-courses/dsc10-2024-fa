@@ -38,7 +38,9 @@ As a disclaimer, these materials are provided to help you study, but they are no
 
 </center>
 
-#### Basic Coding Tips and Error Messages by Kathleen Nguyen
+#### Basic Coding Tips and Error Messages
+#### by Kathleen Nguyen
+{: .no_toc }
 
 <center>
 
@@ -50,7 +52,9 @@ As a disclaimer, these materials are provided to help you study, but they are no
 
 </center>
 
-#### Variable Names by Raine Hoang
+#### Variable Names
+#### by Raine Hoang
+{: .no_toc }
 
 <center>
 
@@ -62,7 +66,9 @@ As a disclaimer, these materials are provided to help you study, but they are no
 
 </center>
 
-#### Keyword Errors by Raine Hoang
+#### Keyword Errors
+#### by Raine Hoang
+{: .no_toc }
 
 <center>
 
@@ -76,7 +82,9 @@ As a disclaimer, these materials are provided to help you study, but they are no
 
 </center>
 
-#### Accessing Array Elements and Out of Bounds Errors by Raine Hoang
+#### Accessing Array Elements and Out of Bounds Errors
+#### by Raine Hoang
+{: .no_toc }
 
 <center>
 
@@ -88,7 +96,9 @@ As a disclaimer, these materials are provided to help you study, but they are no
 
 </center>
 
-#### Return Outside Function Error by Raine Hoang
+#### Return Outside Function Error
+#### by Raine Hoang
+{: .no_toc }
 
 <center>
 
@@ -100,7 +110,9 @@ As a disclaimer, these materials are provided to help you study, but they are no
 
 </center>
 
-#### Print vs. Return by Raine Hoang
+#### Print vs. Return
+#### by Raine Hoang
+{: .no_toc }
 
 <center>
 
@@ -112,7 +124,9 @@ As a disclaimer, these materials are provided to help you study, but they are no
 
 </center>
 
-#### Error Handling and Keyboard Shortcuts in Jupyter Notebooks by Aaron Rasin, Bill Wang, Leena Kang
+#### Error Handling and Keyboard Shortcuts in Jupyter Notebooks 
+#### by Aaron Rasin, Bill Wang, Leena Kang
+{: .no_toc }
 
 <a href="https://github.com/BillWang04/dsc95_final_project">Open Here</a>
 
@@ -121,7 +135,9 @@ As a disclaimer, these materials are provided to help you study, but they are no
 
 ### Strings, Series, and Arrays
 
-#### String Methods by Keenan Serrano, Norah Kerendian, Ylesia Wu
+#### String Methods 
+#### by Keenan Serrano, Norah Kerendian, Ylesia Wu
+{: .no_toc }
 <center>
   
 <iframe src="https://drive.google.com/file/d/1_QX___9JYZm0GH5tw75dlQX4gIYY4RCf/preview" width="560" height="315" allow="autoplay"></iframe>
@@ -134,7 +150,9 @@ As a disclaimer, these materials are provided to help you study, but they are no
 </center>
 
 
-#### Series String Methods by Keenan Serrano, Norah Kerendian, Ylesia Wu
+#### Series String Methods 
+#### by Keenan Serrano, Norah Kerendian, Ylesia Wu
+{: .no_toc }
 <center>
 
 <iframe src="https://drive.google.com/file/d/1n5m0DFc4rPupaDjEXEM_zMcoHmbd8pqG/preview" width="560" height="315" allow="autoplay"></iframe>
@@ -145,7 +163,9 @@ As a disclaimer, these materials are provided to help you study, but they are no
 
 </center>
 
-#### .str.contains() and Other String Methods by Michelle Hong
+#### .str.contains() and Other String Methods 
+#### by Michelle Hong
+{: .no_toc }
 <center>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/OG-bmeozc1w?si=pJP9aXV-4eOpnm2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -156,7 +176,9 @@ As a disclaimer, these materials are provided to help you study, but they are no
 
 </center>
 
-#### String, Series, and Array Methods by Sophie Wang
+#### String, Series, and Array Methods 
+#### by Sophie Wang
+{: .no_toc }
 <center>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/J05wJtO3CEU?si=etN4UZC2oOfzh8fI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -171,7 +193,9 @@ As a disclaimer, these materials are provided to help you study, but they are no
 
 ### DataFrames
 
-#### DataFrame Review by Nathaniel Del Rosario, Ashley Ho, Chaninder Rishi
+#### DataFrame Review 
+#### by Nathaniel Del Rosario, Ashley Ho, Chaninder Rishi
+{: .no_toc }
 
 <a href="https://www.notion.so/DSC-10-DataFrames-Review-c072733a886c4b5985379750deae3658">Open Here</a>
 
@@ -188,7 +212,9 @@ As a disclaimer, these materials are provided to help you study, but they are no
 
 </center>
 
-#### Query Examples by Keenan Serrano, Norah Kerendian, Ylesia Wu
+#### Query Examples 
+#### by Keenan Serrano, Norah Kerendian, Ylesia Wu
+{: .no_toc }
 
 <center>
 
@@ -200,7 +226,9 @@ As a disclaimer, these materials are provided to help you study, but they are no
 
 </center>
 
-#### .groupby() by Kate Feng
+#### .groupby() 
+#### by Kate Feng
+{: .no_toc }
 
 <center>
 
@@ -212,7 +240,9 @@ As a disclaimer, these materials are provided to help you study, but they are no
 
 </center>
 
-#### When should we use .groupby? by Zoe Ludena
+#### When should we use .groupby? 
+#### by Zoe Ludena
+{: .no_toc }
 
 <center>
 
@@ -224,7 +254,9 @@ As a disclaimer, these materials are provided to help you study, but they are no
 
 </center>
 
-#### Aggregation Methods for .groupby() by Raine Hoang
+#### Aggregation Methods for .groupby() 
+#### by Raine Hoang
+{: .no_toc }
 
 <center>
 
@@ -236,7 +268,9 @@ As a disclaimer, these materials are provided to help you study, but they are no
 
 </center>
 
-#### Number of Rows After a Merge by Jason Huynh
+#### Number of Rows After a Merge 
+#### by Jason Huynh
+{: .no_toc }
 
 <center>
 
@@ -248,7 +282,9 @@ As a disclaimer, these materials are provided to help you study, but they are no
 
 </center>
 
-#### Merge by Ester Tsai
+#### Merge 
+#### by Ester Tsai
+{: .no_toc }
 
 <center>
 
@@ -263,7 +299,10 @@ As a disclaimer, these materials are provided to help you study, but they are no
 
 </center>
 
-#### Data Structures by Minchan Kim
+#### Data Structures 
+#### by Minchan Kim
+{: .no_toc }
+
 <center>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/eJ1f5EB4mfI?si=eWCyT8tLabMKP5hh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -275,7 +314,10 @@ As a disclaimer, these materials are provided to help you study, but they are no
 
 </center>
 
-#### Functions and .apply()  by Abel Seyoum
+#### Functions and .apply()
+#### by Abel Seyoum
+{: .no_toc }
+
 <center>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/U99Cs78uMVg?si=iDHEpYZkri2WVTQl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -291,18 +333,23 @@ As a disclaimer, these materials are provided to help you study, but they are no
 
 ### For-loops
 
-#### For-loops by Abel Seyoum
+#### For-loops 
+#### by Abel Seyoum
+{: .no_toc }
+
 <center>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/DRxRvsVxACs?si=FUx2wEnzul7xzuRb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <br>
 
-(<a href="https://www.youtube.com/watch?v=U99Cs78uMVg&ab_channel=AbelSeyoum">source</a>)
+(<a href="https://www.youtube.com/watch?v=DRxRvsVxACs&ab_channel=AbelSeyoum">source</a>)
 
 </center>
 
-#### For-Loops and the Accumlator Pattern by Raine Hoang
+#### For-Loops and the Accumlator Pattern
+#### by Raine Hoang
+{: .no_toc }
 
 <center>
 
@@ -318,7 +365,9 @@ As a disclaimer, these materials are provided to help you study, but they are no
 
 ### Probability
 
-#### Probability Cheat Sheet by Suhani Sharma
+#### Probability Cheat Sheet 
+#### by Suhani Sharma
+{: .no_toc }
 
 <center>
 
@@ -330,7 +379,10 @@ As a disclaimer, these materials are provided to help you study, but they are no
 
 </center>
 
-#### Probability Review by Athulith Paraselli
+#### Probability Review 
+#### by Athulith Paraselli
+{: .no_toc }
+
 <center>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/oUiyLWeuY1I?si=xDRpkmAuo7rFvlii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -345,7 +397,10 @@ As a disclaimer, these materials are provided to help you study, but they are no
 
 ### Statistics
 
-#### Which statistical method to use? by Claire Wang
+#### Which statistical method to use? 
+#### by Claire Wang
+{: .no_toc }
+
 <center>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/NCMclR_mfN0?si=WTpVkrH0jsqCGJXM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -357,7 +412,10 @@ As a disclaimer, these materials are provided to help you study, but they are no
 </center>
 
 
-#### All About TVD by Calvin Nguyen
+#### All About TVD 
+#### by Calvin Nguyen
+{: .no_toc }
+
 <center>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/WmA2toOgg4s?si=CC5koakf6epl3A_O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -369,7 +427,10 @@ As a disclaimer, these materials are provided to help you study, but they are no
 </center>
 
 
-#### What are p-values? by Daniel Budidharma
+#### What are p-values? 
+#### by Daniel Budidharma
+{: .no_toc }
+
 <center>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/KNhINtlvsOQ?si=sgVo9swg1Z2EtqDF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -381,7 +442,10 @@ As a disclaimer, these materials are provided to help you study, but they are no
 </center>
 
 
-#### How to Choose Test Statitiscs for Hypothesis Testing by Cici Xu
+#### How to Choose Test Statitiscs for Hypothesis Testing 
+#### by Cici Xu
+{: .no_toc }
+
 <center>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/P_K5aC8W3xg?si=GhPYQbkhuNWGpcuD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
