@@ -132,6 +132,15 @@ Your primary motivation when interacting with course staff should be
 
 ## 🚦 Getting Started
 
+Make sure to complete all the items listed here by **Sunday, September 29th at 11:59pm**. If you join the course late, these items are due at 11:59PM the day after you join the class.
+
+1. Join [Ed](https://edstem.org/us/join/jvuCSY).
+2. Read the syllabus and course website and complete the [Syllabus Check](https://forms.gle/bKFYExLq6dR4usm68).
+3. Fill out the [Welcome Survey](https://forms.gle/Q71C5HGCYxYVsMyy6).
+4. Take the [Pretest](https://practice.dsc10.com/pretest/) and submit your written solutions to [Gradescope](https://www.gradescope.com/courses/871401).
+
+
+
 ### Technology
 
 First and foremost, you will need access to a computer (or tablet with a
@@ -154,11 +163,17 @@ additional platforms that you'll need to access:
   science and machine learning platform, where you will work on assignments. We
   will show you how to use it in class.
 
-Make sure you can access all three sites ASAP. It's a good idea to bookmark
+Make sure you can access all three sites. It's a good idea to bookmark
 them, too (though they're all linked at the top of this website).
 
 {: .warning }
 **We will not be using Canvas this quarter. You won't see this course on your Canvas at all, so don't be alarmed. In addition, please do not contact the staff through Canvas – we won't be able to read it!**
+
+### Syllabus Check
+
+To demonstrate that you have read and understood the policies on the syllabus and course website, you'll be asked to complete a [Syllabus Check](https://forms.gle/bKFYExLq6dR4usm68), which is a short quiz about the information contained on the syllabus and course website. You will earn participation credit by completing the Syllabus Check with a score of 80% or higher. 
+
+If you have questions about any course-related policies in the future, always refer to the syllabus and course website first!
 
 ### Welcome Survey
 
@@ -166,15 +181,9 @@ Please fill out this short [Welcome Survey](https://forms.gle/Q71C5HGCYxYVsMyy6)
 
 ### Pretest
 
-DSC 10’s only prerequisite is high school algebra. In order to gauge your preparedness for the type of math you’ll see in this class, you should work through the practice problems on this [pretest](https://practice.dsc10.com/pretest/). This pretest will help you identify any gaps in your background knowledge and it will teach you some useful test-taking skills. 
+DSC 10’s only prerequisite is high school algebra. In order to gauge your preparedness for the type of math you’ll see in this class, you should work through the practice problems on this [Pretest](https://practice.dsc10.com/pretest/). This Pretest will help you identify any gaps in your background knowledge and it will teach you some useful test-taking skills. 
 
-The pretest will be graded based on honest effort, not on the correctness of your responses. You will earn participation credit for completing the pretest to the best of your ability. We'll release solutions to the pretest after the due date, and you are highly encouraged to check how you did and learn from it.
-
-### Syllabus Check
-
-To demonstrate that you have read and understood the policies on the syllabus and course website, you'll be asked to complete a Syllabus Check, which is a short quiz about the information contained on the syllabus and course website. You will earn participation credit by completing the Syllabus Check with a score of 80% or higher. 
-
-If you have questions about any course-related policies in the future, always refer to the syllabus and course website first!
+The Pretest will be graded based on honest effort, not on the correctness of your responses. You will earn participation credit for completing the Pretest to the best of your ability. We'll release solutions to the Pretest after the due date, and you are highly encouraged to check how you did and learn from it.
 
 ---
 
