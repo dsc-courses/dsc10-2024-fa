@@ -66,6 +66,7 @@ As a disclaimer, these materials are provided to help you study, but they are no
 
 </center>
 
+<!-- commented out because we don't cover dictionaries, add back if you are covering dictionaries
 #### Key Error for Dictionaries
 #### by Raine Hoang
 {: .no_toc }
@@ -77,8 +78,7 @@ As a disclaimer, these materials are provided to help you study, but they are no
 <br>
 
 (<a href="https://docs.google.com/presentation/d/1AmJJzdzS0GF4v2jiRTnvjJUsUFISoq3S/edit#slide=id.p1">source</a>)
-
-<!--If you would like to check out more of Raine's Projects, please <a href="https://drive.google.com/drive/u/4/folders/1AdRtbZuUptUEqLDYE0-l1IhgRsFeM1DY">click here</a>!-->
+-->
 
 </center>
 
@@ -215,7 +215,7 @@ As a disclaimer, these materials are provided to help you study, but they are no
 
 </center>
 
-#### When should we use .groupby? 
+#### When To Use .groupby()
 #### by Zoe Ludena
 {: .no_toc }
 
@@ -338,9 +338,9 @@ As a disclaimer, these materials are provided to help you study, but they are no
 
 <hr>
 
-### For-loops
+### For-Loops
 
-#### For-loops 
+#### For-Loops 
 #### by Abel Seyoum
 {: .no_toc }
 
@@ -404,7 +404,7 @@ As a disclaimer, these materials are provided to help you study, but they are no
 
 ### Statistics
 
-#### Which statistical method to use? 
+#### Which Statistical Method to Use
 #### by Claire Wang
 {: .no_toc }
 
@@ -434,7 +434,7 @@ As a disclaimer, these materials are provided to help you study, but they are no
 </center>
 
 
-#### What are p-values? 
+#### What are p-values?
 #### by Daniel Budidharma
 {: .no_toc }
 
