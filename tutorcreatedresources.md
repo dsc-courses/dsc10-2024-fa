@@ -123,7 +123,7 @@ As a disclaimer, these materials are provided to help you study, but they are no
 
 </center>
 
-#### .str.contains() and Other String Methods 
+#### `.str.contains()` and Other String Methods 
 #### by Michelle Hong
 {: .no_toc }
 <center>
@@ -174,7 +174,7 @@ As a disclaimer, these materials are provided to help you study, but they are no
 <a href="https://www.notion.so/DSC-10-DataFrames-Review-c072733a886c4b5985379750deae3658">Open Here</a>
 
 
-#### .get() 
+#### `.get()`
 #### by Raine Hoang
 {: .no_toc }
 
@@ -202,7 +202,7 @@ As a disclaimer, these materials are provided to help you study, but they are no
 
 </center>
 
-#### .groupby() 
+#### `.groupby()`
 #### by Kate Feng
 {: .no_toc }
 
@@ -216,7 +216,7 @@ As a disclaimer, these materials are provided to help you study, but they are no
 
 </center>
 
-#### When to Use .groupby()
+#### When to Use `.groupby()`
 #### by Zoe Ludena
 {: .no_toc }
 
@@ -230,7 +230,7 @@ As a disclaimer, these materials are provided to help you study, but they are no
 
 </center>
 
-#### Aggregation Methods for .groupby() 
+#### Aggregation Methods for `.groupby()`
 #### by Raine Hoang
 {: .no_toc }
 
@@ -322,7 +322,7 @@ As a disclaimer, these materials are provided to help you study, but they are no
 
 </center>
 
-#### Functions and .apply()
+#### Functions and `.apply()`
 #### by Abel Seyoum
 {: .no_toc }
 
@@ -339,9 +339,9 @@ As a disclaimer, these materials are provided to help you study, but they are no
 
 <hr>
 
-### For-Loops
+### `for`-Loops
 
-#### For-Loops 
+#### `for`-Loops 
 #### by Abel Seyoum
 {: .no_toc }
 
@@ -355,7 +355,7 @@ As a disclaimer, these materials are provided to help you study, but they are no
 
 </center>
 
-#### For-Loops and the Accumlator Pattern
+#### `for`-Loops and the Accumlator Pattern
 #### by Raine Hoang
 {: .no_toc }
 
