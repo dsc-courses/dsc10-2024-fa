@@ -27,7 +27,7 @@ This site is **under construction**. Anything you read here is not finalized. Th
 
 
 <!--{: .success }
-Welcome to DSC 10! To start, read the [syllabus](https://dsc10.com/syllabus) carefully, paying special attention to the ["Getting Started"](https://dsc10.com/syllabus/#-getting-started) section. Make sure to complete the [Welcome Survey](https://forms.gle/4j7t87VWsaJCYbnn8) and [Pretest](https://practice.dsc10.com/pretest/) to get off to a good start!
+>Welcome to DSC 10! Make sure to read this website thoroughly and complete the items in the [Getting Started](https://dsc10.com/syllabus/#-getting-started) checklist. These are due **Sunday, September 29th at 11:59pm**.
 -->
 
 

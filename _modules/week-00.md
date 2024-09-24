@@ -14,8 +14,17 @@ days:
             - name: CIT 1.0-1.3
               url: https://inferentialthinking.com/chapters/01/what-is-data-science.html
           keywords: data science, course structure, policies, syllabus, Little Women demo
+    - date: 2024-9-29
         - name: SUR
           type: survey
           title: Welcome Survey
           url: https://forms.gle/Q71C5HGCYxYVsMyy6
+    - name: SYL
+          type: survey
+          title: Syllabus Check
+          url: https://forms.gle/bKFYExLq6dR4usm68
+    - name: PRE
+          type: survey
+          title: Pretest
+          url: https://practice.dsc10.com/pretest/index.html
 ---
