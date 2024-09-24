@@ -33,7 +33,7 @@ All of the interactive diagrams from lecture, like the one below, are available 
 
 ### Tutor-Created Resources
 
-We've compiled a collection of [**Tutor-Created Resources**](../tutorcreatedresources) that you might find useful for additional explanations and examples. Feel free to have a look around!
+We've compiled a collection of [**Tutor-Created Resources**](../tutorcreatedresources) that you might find useful for additional explanations and examples. The resources include videos, slideshows, reference sheets, and more. Feel free to have a look around!
 
 ### Python Extra Practice
 
