@@ -21,7 +21,7 @@ As a disclaimer, these materials are provided to help you study, but they are no
 {:toc}
 
 
-### Coding Tips, Debugging Errors, and Jupyter Notebook Shortcuts
+### Keyboard Shortcuts, Error Messages, and Basic Python
 
 
 #### Jupyter Notebook Keyboard Shortcuts
@@ -52,20 +52,6 @@ As a disclaimer, these materials are provided to help you study, but they are no
 
 </center>
 
-#### Variable Names
-#### by Raine Hoang
-{: .no_toc }
-
-<center>
-
-<iframe src="https://docs.google.com/presentation/d/1O8jwLua7Zxo1c6T3qvuAItHY_FmVPtHlhJtv6_sEa70/embed?start=false&loop=false&delayms=3000" frameborder="0" width="560" height="315" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
-
-<br>
-
-(<a href="https://docs.google.com/presentation/d/1O8jwLua7Zxo1c6T3qvuAItHY_FmVPtHlhJtv6_sEa70/edit?usp=sharing">source</a>)
-
-</center>
-
 <!-- commented out because we don't cover dictionaries, add back if you are covering dictionaries
 #### Key Error for Dictionaries
 #### by Raine Hoang
@@ -83,11 +69,26 @@ As a disclaimer, these materials are provided to help you study, but they are no
 </center>
 
 
-#### Error Handling and Keyboard Shortcuts in Jupyter Notebooks 
+#### Common Errors and Keyboard Shortcuts in Jupyter Notebooks 
 #### by Aaron Rasin, Bill Wang, Leena Kang
 {: .no_toc }
 
 <a href="https://github.com/BillWang04/dsc95_final_project">Open Here</a>
+
+#### Variable Names
+#### by Raine Hoang
+{: .no_toc }
+
+<center>
+
+<iframe src="https://docs.google.com/presentation/d/1O8jwLua7Zxo1c6T3qvuAItHY_FmVPtHlhJtv6_sEa70/embed?start=false&loop=false&delayms=3000" frameborder="0" width="560" height="315" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
+<br>
+
+(<a href="https://docs.google.com/presentation/d/1O8jwLua7Zxo1c6T3qvuAItHY_FmVPtHlhJtv6_sEa70/edit?usp=sharing">source</a>)
+
+</center>
+
 
 <hr>
 
@@ -215,7 +216,7 @@ As a disclaimer, these materials are provided to help you study, but they are no
 
 </center>
 
-#### When To Use .groupby()
+#### When to Use .groupby()
 #### by Zoe Ludena
 {: .no_toc }
 
@@ -274,7 +275,7 @@ As a disclaimer, these materials are provided to help you study, but they are no
 
 </center>
 
-#### Data Structures 
+#### Data Structures (Lists, Arrays, DataFrames, and Series)
 #### by Minchan Kim
 {: .no_toc }
 
@@ -372,7 +373,7 @@ As a disclaimer, these materials are provided to help you study, but they are no
 
 ### Probability
 
-#### Probability Cheat Sheet 
+#### Probability Reference Sheet 
 #### by Suhani Sharma
 {: .no_toc }
 
@@ -449,7 +450,7 @@ As a disclaimer, these materials are provided to help you study, but they are no
 </center>
 
 
-#### How to Choose Test Statitiscs for Hypothesis Testing 
+#### How to Choose Test Statistics for Hypothesis Testing 
 #### by Cici Xu
 {: .no_toc }
 
