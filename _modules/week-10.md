@@ -52,7 +52,7 @@ days:
       events: 
         - name: EXAM
           type: exam
-          title: <b>Final Exam (11:30-2:30PM)</b>
+          title: <b>Final Exam (11:30AM-2:30PM)</b>
         - name: SUR
           type: survey
           title: SETs and End-of-Quarter Survey (due 8AM)
