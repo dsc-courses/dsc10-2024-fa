@@ -200,7 +200,9 @@ As a disclaimer, these materials are provided to help you study, but they are no
 <a href="https://www.notion.so/DSC-10-DataFrames-Review-c072733a886c4b5985379750deae3658">Open Here</a>
 
 
-#### .get() by Raine Hoang
+#### .get() 
+#### by Raine Hoang
+{: .no_toc }
 
 <center>
 
