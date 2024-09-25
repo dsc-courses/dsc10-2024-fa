@@ -4,9 +4,9 @@ role: Tutor
 pronouns: he/him
 email: 
 photo: assets/staff-images/sp24/budidharma-daniel.jpg
-description: 1st year, Data Science, Sixth
+description: 2nd year, Data Science, Sixth
 hometown: Jakarta, Indonesia
-askabout: Movies, manga/anime, Europa Universalis 4
-foodemoji: 
-food: 🌶️ Spicy City, Jasmine, Tacos El Gordo, Taegukgi
+askabout: Movies, hiking, video games, Hearts of Iron 4, anime/manga
+foodemoji: 🌶 
+food:  Spicy City, Jasmine, Tacos El Gordo, Phil's BBQ, The Fire Spot
 ---

@@ -6,7 +6,7 @@ email:
 photo: assets/staff-images/sp24/nguyen-kathleen.jpg
 description: 4th year, Data Science, Warren
 hometown: Los Angeles, CA
-askabout: F1 racing, k-dramas, reading
-foodemoji: 🍜 
-food: Harumama, Corner Bakery Cafe, SomiSomi
+askabout: Reading, F1, TV shows
+foodemoji: 🍲 
+food: HaiDiLao, Corner Bakery Cafe, SomiSomi
 ---

@@ -4,9 +4,9 @@ role: Tutor
 pronouns: he/him
 email: 
 photo: assets/staff-images/sp24/gillet-charlie.jpg
-description: 3rd year, Data Science, Sevent
+description: 4th year, Data Science, Seventh
 hometown: Redwood City, CA
-askabout: dragon boat racing, basketball, music
-foodemoji: 🌯 
-food: Santana's Mexican Food, PT Eatery, Tacos El Gordo
+askabout: Running/hiking, dragon boat racing, basketball
+foodemoji: 🌮 
+food: Tacos El Gordo, Spicy House, PT Eatery
 ---

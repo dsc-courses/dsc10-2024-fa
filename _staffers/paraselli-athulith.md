@@ -4,9 +4,9 @@ role: Tutor
 pronouns: he/him
 email: 
 photo: assets/staff-images/sp24/paraselli-athulith.jpg
-description: 3rd year, Math-CS, Data Science Minor, Marshall
+description: 4th year, Math-CS, Marshall
 hometown: San Diego, CA
-askabout: Music, video games, running
-foodemoji: 
-food: 🍗 Raising Canes, CoCo Ichibanya, Chipotle
+askabout: Music, video games, Internships
+foodemoji: 🍟 
+food: Raising canes, CoCo Ichibanya, Charminar
 ---
