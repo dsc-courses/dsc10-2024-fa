@@ -24,7 +24,7 @@ days:
           type: survey
           title: Syllabus Check
           url: https://forms.gle/bKFYExLq6dR4usm68
-       - name: PRE
+        - name: PRE
           type: survey
           title: Pretest
           url: https://practice.dsc10.com/pretest/index.html
