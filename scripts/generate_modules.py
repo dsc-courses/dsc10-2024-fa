@@ -189,7 +189,7 @@ days:"""
             outstr = outstr.rstrip()
             outstr += f"""
         - name: DISC {disc_num}
-          type: discussion
+          type: disc
           title: {disc_name}
           problems: """
             
