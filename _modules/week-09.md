@@ -16,7 +16,7 @@ days:
           keywords: association, correlation coefficient (r), predicting heights, regression line (su)
         - name: QUIZ 4
           type: quiz
-          title: Quiz 4 covers Lectures 19-23
+          title: Quiz 4 covers Lectures 19-32)
     - date: 2024-11-26
       events:
         - name: HW 6
@@ -36,7 +36,7 @@ days:
               url: https://inferentialthinking.com/chapters/15/2/Regression_Line.html
           keywords: regression line in original units, outliers, errors, RMSE, best fit, least squares
         - name: DISC 8
-          type: discussion
+          type: disc
           title: Hypothesis Testing and Permutation Testing
           problems:
     - date: 2024-11-29

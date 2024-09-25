@@ -15,7 +15,7 @@ days:
               url: https://inferentialthinking.com/chapters/13/3/Confidence_Intervals.html
           keywords: interpreting CIs, robust vs. sensitive, center, standard deviation, Chebyshev
         - name: DISC 6
-          type: discussion
+          type: disc
           title: Sampling, Bootstrapping, and Confidence Intervals
           problems:
     - date: 2024-11-6

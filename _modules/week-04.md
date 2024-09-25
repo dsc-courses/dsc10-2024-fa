@@ -15,7 +15,7 @@ days:
               url: https://inferentialthinking.com/chapters/09/5/Finding_Probabilities.html
           keywords: event, conditional prob., multiplication and addition rules, independence
         - name: DISC 4
-          type: discussion
+          type: disc
           title: Functions, DataFrames, and Control Flow
           problems:
     - date: 2024-10-23

@@ -15,7 +15,7 @@ days:
               url: https://notes.dsc10.com/02-data_sets/querying.html
           keywords: .set_index, Booleans, querying, .shape, &, |, .take, .groupby, aggregation
         - name: DISC 2
-          type: discussion
+          type: disc
           title: Arrays and DataFrames
           problems:
     - date: 2024-10-9

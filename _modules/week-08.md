@@ -17,7 +17,7 @@ days:
               url: https://inferentialthinking.com/chapters/11/4/Error_Probabilities.html
           keywords: fair or unfair coin, p-value, midterm exam scores, Alameda County jury, TVD
         - name: DISC 7
-          type: discussion
+          type: disc
           title: The Normal Distribution and the CLT
           problems:
     - date: 2024-11-20

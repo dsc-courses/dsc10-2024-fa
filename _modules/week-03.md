@@ -17,7 +17,7 @@ days:
               url: https://notes.dsc10.com/02-data_sets/apply.html
           keywords: functions, arguments, print vs. return, .apply, .reset_index
         - name: DISC 3
-          type: discussion
+          type: disc
           title: Querying, Grouping, and Plotting
           problems:
     - date: 2024-10-16

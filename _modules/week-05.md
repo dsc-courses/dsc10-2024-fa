@@ -12,7 +12,7 @@ days:
           podcast:
           readings:
         - name: DISC 5
-          type: discussion
+          type: disc
           title: Probability and Simulation
           problems:
     - date: 2024-10-30
