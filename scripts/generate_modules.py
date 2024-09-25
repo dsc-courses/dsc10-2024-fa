@@ -191,7 +191,7 @@ days:"""
         - name: DISC {disc_num}
           type: disc
           title: {disc_name}
-          problems: """
+          url: """
             
         if survey:
             if '[' in survey and ']' in survey:
