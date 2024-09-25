@@ -6,7 +6,7 @@ email:
 photo: assets/staff-images/sp24/prabhu-pallavi.jpg
 description: 4th year, Data Science, Marshall
 hometown: Cypress, CA
-askabout: Painting, crafting, tv shows
+askabout: Painting, crafting, TV shows
 foodemoji: 🍦 
 food: SomiSomi, Taco Stand
 ---
