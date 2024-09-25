@@ -17,7 +17,7 @@ days:
         - name: DISC 1
           type: discussion
           title: Getting Started with Jupyter Notebooks
-          problems:
+          url: http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2024-fa&subPath=discussion/disc01/disc01.ipynb
     - date: 2024-10-2
       events: 
         - name: LEC 3
