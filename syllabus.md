@@ -49,7 +49,7 @@ The contents of this course come from UC Berkeley's Data 8 course, created by An
 There are three lecture sections:
 - Section A: MWF 9-9:50AM in [Center 109](https://map.concept3d.com/?id=1005#!m/163044).
 - Section B: MWF 10-10:50AM in [Center 113](https://map.concept3d.com/?id=1005#!m/163044).
-- Section C: MWF 1-1:50PM in [Solis 104](https://map.concept3d.com/?id=1005#!m/237105). **See note below!**
+- Section C: MF 1-1:50PM in [Solis 104](https://map.concept3d.com/?id=1005#!m/237105). **See note below!**
 
 {: .note }
 There will be no live lecture on Wednesdays at 1PM. Students in Section C can either attend one of the morning sections on Wednesdays, or watch a recording of the lecture. The 1PM section will have live lectures on Mondays and Fridays only.
@@ -135,9 +135,10 @@ Your primary motivation when interacting with course staff should be
 Make sure to complete all the items listed here by **Sunday, September 29th at 11:59pm**. If you join the course late, these items are due at 11:59PM the day after you join the class.
 
 1. Join [Ed](https://edstem.org/us/join/jvuCSY).
-2. Read the syllabus and course website and complete the [Syllabus Check](https://forms.gle/bKFYExLq6dR4usm68).
-3. Fill out the [Welcome Survey](https://forms.gle/Q71C5HGCYxYVsMyy6).
-4. Take the [Pretest](https://practice.dsc10.com/pretest/) and submit your written solutions to [Gradescope](https://www.gradescope.com/courses/871401).
+2. Check if you can access [Gradescope](https://www.gradescope.com/courses/871401). If not, send a private message to the instructional staff on Ed with your name, PID, and email address, then we can add you so you can submit assignments.
+3. Read the syllabus and course website and complete the [Syllabus Check](https://forms.gle/bKFYExLq6dR4usm68).
+4. Fill out the [Welcome Survey](https://forms.gle/Q71C5HGCYxYVsMyy6).
+5. Take the [Pretest](https://practice.dsc10.com/pretest/) and submit your written solutions to [Gradescope](https://www.gradescope.com/courses/871401).
 
 
 
@@ -156,7 +157,7 @@ additional platforms that you'll need to access:
 
 - **Gradescope:** You'll submit all assignments and exams to
   [Gradescope](https://www.gradescope.com/courses/871401). This is where all of
-  your grades will live as well. You will be automatically added to Gradescope about 24 hours after enrolling in the course.
+  your grades will live as well. You will be automatically added to Gradescope about 24 hours after enrolling in the course. If you need to submit assignments before then, please send a private message to the instructional staff on Ed with your name, PID, and email address.
 
 - **DataHub:** Assignments in this course will involve programming in Python.
   DataHub ([datahub.ucsd.edu](https://datahub.ucsd.edu)) is UCSD's online data
@@ -661,9 +662,9 @@ Sorry, but instructors are not able to enroll students in classes. There is noth
 
 **I am on the waitlist, so how can I keep up with the course?**
 
-Waitlisted to students may attend lecture and discussion, space-permitting, and can also watch podcast recordings. You can (and should) still submit assignments if you are on the waitlist. If you get off the waitlist and are able to join the class, you will not get any extensions on past-due assignments.
+Waitlisted to students may attend lecture and discussion, space-permitting, and can also watch podcast recordings. You can (and should) still submit assignments if you are on the waitlist. If you get off the waitlist and are able to join the class, you will not get any extensions on past-due assignments. 
 
-Waitlisted students should have access to DataHub to work on assignments. You may need to add yourself to some course tools; see the [Getting Started](#-getting-started) section of the syllabus. 
+Waitlisted students should have access to DataHub to work on assignments. You may need to add yourself to some course tools; see the [Getting Started](#-getting-started) section of the syllabus. If you need access to Gradescope, send a private message to the instructional staff on Ed with your name, PID, and email address.
 
 **What are my chances of getting off the waitlist?**
 
