@@ -1,5 +1,5 @@
 ---
-name: Jason Huynh
+name: Sophie Wang
 role: Tutor
 pronouns: she/her
 email: 
