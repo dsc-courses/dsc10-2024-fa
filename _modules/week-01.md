@@ -14,8 +14,8 @@ days:
             - name: BPD 1-6
               url: https://notes.dsc10.com/01-getting_started/tools.html
           keywords: Jupyter notebooks, expressions, variables, assignment, functions, int, float
-        - name: DIS 1
-          type: discussion
+        - name: DISC 1
+          type: disc
           title: Getting Started with Jupyter Notebooks
           url: http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2024-fa&subPath=discussion/disc01/disc01.ipynb
     - date: 2024-10-2
