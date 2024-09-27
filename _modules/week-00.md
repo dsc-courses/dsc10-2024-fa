@@ -13,7 +13,9 @@ days:
           readings:
             - name: CIT 1.0-1.3
               url: https://inferentialthinking.com/chapters/01/what-is-data-science.html
-          keywords: data science, course structure, policies, syllabus, Little Women demo 
+            - name: BPD 1-3
+              url: https://notes.dsc10.com/01-getting_started/tools.html
+          keywords: course logistics, syllabus, Little Women demo, Jupyter notebooks, expressions
     - date: 2024-9-29
       events: 
         - name: SUR

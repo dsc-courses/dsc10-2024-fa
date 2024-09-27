@@ -6,14 +6,14 @@ days:
       events: 
         - name: LEC 2
           type: lecture
-          title: Expressions and Data Types
+          title: Variables and Data Types
           url:
           html:
           podcast:
           readings:
-            - name: BPD 1-6
-              url: https://notes.dsc10.com/01-getting_started/tools.html
-          keywords: Jupyter notebooks, expressions, variables, assignment, functions, int, float
+            - name: BPD 3-5
+              url: https://notes.dsc10.com/01-getting_started/expressions.html
+          keywords: variables, assignment, functions, int, float
         - name: DISC 1
           type: disc
           title: Getting Started with Jupyter Notebooks

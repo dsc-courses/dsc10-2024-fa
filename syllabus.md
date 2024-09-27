@@ -132,7 +132,7 @@ Your primary motivation when interacting with course staff should be
 
 ## 🚦 Getting Started
 
-Make sure to complete all the items listed here by **Sunday, September 29th at 11:59pm**. If you join the course late, these items are due at 11:59PM the day after you join the class.
+Make sure to complete all the items listed here by **Sunday, September 29th at 11:59PM**. If you join the course late, these items are due at 11:59PM the day after you join the class.
 
 1. Join [Ed](https://edstem.org/us/join/jvuCSY).
 2. Check if you can access [Gradescope](https://www.gradescope.com/courses/871401). If not, send a private message to the instructional staff on Ed with your name, PID, and email address, then we can add you so you can submit assignments.
@@ -427,7 +427,7 @@ To summarize all of the events and deadlines, refer to this general weekly
 schedule. Please refer to the homepage of this website for the most up-to-date schedule of deadlines.
 
 | **Sunday** | **Monday** | **Tuesday** | **Wednesday** | **Thursday** | **Friday** | **Saturday** |
-| | Lecture and Discussion | | Lecture and Quiz Session | | Lecture | |
+| | Lecture and Discussion | | Lecture and Quiz | | Lecture | |
 | <b style="color:red">Homework due</b> | | | | <b style="color:red">Lab due</b> | | |
 
 ---
