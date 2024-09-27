@@ -11,7 +11,7 @@ days:
           html: resources/lectures/lec01/lec01.html
           podcast:
           readings:
-            - name: CIT 1.0-1.3
+            - name: CIT 1-1.3
               url: https://inferentialthinking.com/chapters/01/what-is-data-science.html
             - name: BPD 1-3
               url: https://notes.dsc10.com/01-getting_started/tools.html
