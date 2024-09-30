@@ -13,7 +13,7 @@ days:
           readings:
             - name: BPD 3-5
               url: https://notes.dsc10.com/01-getting_started/expressions.html
-          keywords: variables, assignment, functions, int, float
+          keywords: variables, assignment, functions, import, methods, int, float, string
         - name: DISC 1
           type: disc
           title: Getting Started with Jupyter Notebooks
@@ -22,7 +22,7 @@ days:
       events: 
         - name: LEC 3
           type: lecture
-          title: Strings, Lists, and Arrays
+          title: Lists and Arrays
           url:
           html:
           podcast:
@@ -31,7 +31,7 @@ days:
               url: https://notes.dsc10.com/02-data_sets/arrays.html
             - name: CIT 14.1
               url: https://inferentialthinking.com/chapters/14/1/Properties_of_the_Mean.html
-          keywords: string methods, mean, median, lists, arrays, array arithmetic
+          keywords: mean, median, lists, arrays, array arithmetic, array methods, np.arange
     - date: 2024-10-3
       events:
         - name: LAB 0
@@ -42,12 +42,12 @@ days:
       events: 
         - name: LEC 4
           type: lecture
-          title: Arrays and DataFrames
+          title: DataFrames
           url:
           html:
           podcast:
           readings:
             - name: BPD 9
               url: https://notes.dsc10.com/02-data_sets/accessing.html
-          keywords: array methods, np.arange, .read_csv, .get, .assign, .sort_values, .iloc, .loc, index
+          keywords: read_csv, .get, .assign, .sort_values, .iloc, .loc, index
 ---

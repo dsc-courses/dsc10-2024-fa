@@ -16,7 +16,7 @@ days:
           keywords: association, correlation coefficient (r), predicting heights, regression line (su)
         - name: QUIZ 4
           type: quiz
-          title: Quiz 4 covers Lectures 19-32)
+          title: Quiz 4 covers Lectures 19-23
     - date: 2024-11-26
       events:
         - name: HW 6

@@ -31,7 +31,7 @@ This site is **under construction**. Anything you read here is not finalized. Th
 
 
 
-[Jump to the current week](#week-0-welcome-to-dsc-10){: .btn }
+[Jump to the current week](#week-1-python-basics){: .btn }
 
 
 {% for module in site.modules %}
