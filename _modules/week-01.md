@@ -7,8 +7,8 @@ days:
         - name: LEC 2
           type: lecture
           title: Variables and Data Types
-          url:
-          html:
+          url: http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2024-fa&subPath=lectures/lec02/lec02.ipynb
+          html: resources/lectures/lec02/lec02.html
           podcast:
           readings:
             - name: BPD 3-5
