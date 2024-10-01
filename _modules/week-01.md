@@ -23,8 +23,8 @@ days:
         - name: LEC 3
           type: lecture
           title: Lists and Arrays
-          url:
-          html:
+          url: http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2024-fa&subPath=lectures/lec03/lec03.ipynb
+          html: resources/lectures/lec03/lec03.html
           podcast:
           readings:
             - name: BPD 7-8
