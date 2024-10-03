@@ -13,7 +13,7 @@ days:
           readings:
             - name: BPD 10-11
               url: https://notes.dsc10.com/02-data_sets/querying.html
-          keywords: .set_index, Booleans, querying, .shape, &, |, .take, .groupby, aggregation
+          keywords: Booleans, querying, .shape, &, |, .take, .groupby, aggregation, .drop
         - name: DISC 2
           type: disc
           title: Arrays and DataFrames
@@ -22,14 +22,14 @@ days:
       events: 
         - name: LEC 6
           type: lecture
-          title: Grouping and Data Visualization
+          title: Data Visualization
           url:
           html:
           podcast:
           readings:
             - name: CIT 7.0-7.1
               url: https://inferentialthinking.com/chapters/07/Visualization.html
-          keywords: .groupby, numerical vs. categorical, scatter plot, line plot, bar chart
+          keywords: numerical vs. categorical, scatter plot, line plot, bar chart, exoplanets
         - name: QUIZ 1
           type: quiz
           title: Quiz 1 covers Lectures 1-4

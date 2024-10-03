@@ -49,5 +49,5 @@ days:
           readings:
             - name: BPD 9
               url: https://notes.dsc10.com/02-data_sets/accessing.html
-          keywords: read_csv, .get, .assign, .sort_values, .iloc, .loc, index
+          keywords: read_csv, .get, .assign, .sort_values, .iloc, .loc, .set_index, US states
 ---
