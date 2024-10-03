@@ -38,7 +38,7 @@ days:
         - name: LAB 1
           type: lab
           title: Arrays and DataFrames
-          url:
+          url: http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2024-fa&subPath=labs/lab01/lab01.ipynb
     - date: 2024-10-11
       events: 
         - name: LEC 7
