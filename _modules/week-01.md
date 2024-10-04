@@ -43,8 +43,8 @@ days:
         - name: LEC 4
           type: lecture
           title: DataFrames
-          url:
-          html:
+          url: http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2024-fa&subPath=lectures/lec04/lec04.ipynb
+          html: resources/lectures/lec04/lec04.html
           podcast:
           readings:
             - name: BPD 9
