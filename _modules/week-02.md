@@ -56,5 +56,5 @@ days:
         - name: HW 1
           type: hw
           title: Basic Python, Arrays, and DataFrames
-          url:
+          url: http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2024-fa&subPath=homeworks/hw01/hw01.ipynb
 ---
