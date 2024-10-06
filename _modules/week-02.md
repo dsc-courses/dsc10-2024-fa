@@ -17,7 +17,7 @@ days:
         - name: DISC 2
           type: disc
           title: Arrays and DataFrames
-          problems:
+          url: https://practice.dsc10.com/disc02/index.html
     - date: 2024-10-9
       events: 
         - name: LEC 6
