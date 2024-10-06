@@ -1,0 +1,11 @@
+test = {   'name': 'q1_1',
+    'points': None,
+    'suites': [   {   'cases': [   {'code': '>>> isinstance(gg_part1, list) # Make sure your variable is a Python list. Check type(gg_part1) to make sure.\nTrue', 'hidden': False, 'locked': False},
+                                   {   'code': '>>> import numbers\n>>> all([isinstance(i, numbers.Integral) for i in gg_part1]) # Chapter numbers should be integers 1 through 9.\nTrue',
+                                       'hidden': False,
+                                       'locked': False},
+                                   {'code': '>>> min(gg_part1) > 0 and max(gg_part1) < 10 # Chapter numbers should be integers 1 through 9.\nTrue', 'hidden': False, 'locked': False}],
+                      'scored': True,
+                      'setup': '',
+                      'teardown': '',
+                      'type': 'doctest'}]}
