@@ -23,8 +23,8 @@ days:
         - name: LEC 6
           type: lecture
           title: Data Visualization
-          url:
-          html:
+          url: http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2024-fa&subPath=lectures/lec06/lec06.ipynb
+          html: resources/lectures/lec05/lec05.html
           podcast:
           readings:
             - name: CIT 7.0-7.1
