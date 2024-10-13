@@ -7,8 +7,8 @@ days:
         - name: LEC 8
           type: lecture
           title: Functions and Applying
-          url:
-          html:
+          url: http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2024-fa&subPath=lectures/lec08/lec08.ipynb
+          html: resources/lectures/lec08/lec08.html
           podcast:
           readings:
             - name: BPD 6
