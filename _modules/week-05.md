@@ -37,5 +37,5 @@ days:
         - name: PROJ
           type: proj
           title: Midterm Project
-          url:
+          url: http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2024-fa&subPath=projects/midterm_project/midterm_project.ipynb
 ---
