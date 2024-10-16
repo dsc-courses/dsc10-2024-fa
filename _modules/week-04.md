@@ -38,7 +38,7 @@ days:
         - name: LAB 3
           type: lab
           title: DataFrames, Control Flow, and Probability
-          url: 
+          url: http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2024-fa&subPath=labs/lab03/lab03.ipynb
         - name: SUR
           type: survey
           title: Mid-Quarter Survey
