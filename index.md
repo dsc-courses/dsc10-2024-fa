@@ -31,7 +31,7 @@ This site is **under construction**. Anything you read here is not finalized. Th
 
 
 
-[Jump to the current week](#week-3-functions-and-control-flow){: .btn }
+[Jump to the current week](#week-4-probability-and-simulation){: .btn }
 
 
 {% for module in site.modules %}
