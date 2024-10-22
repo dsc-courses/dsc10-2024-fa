@@ -65,6 +65,27 @@
               </a>
             </small>
           {%- endif -%}
+          {%- if event.9am -%}
+            <small> &nbsp;&nbsp;
+              <a href="{{ event.html }}">
+                <button type="button" class="btn btn-info">🕘 9AM</button>
+              </a>
+            </small>
+          {%- endif -%}
+          {%- if event.10am -%}
+            <small> &nbsp;&nbsp;
+              <a href="{{ event.html }}">
+                <button type="button" class="btn btn-info">🕙 10AM</button>
+              </a>
+            </small>
+          {%- endif -%}
+          {%- if event.1pm -%}
+            <small> &nbsp;&nbsp;
+              <a href="{{ event.html }}">
+                <button type="button" class="btn btn-info">🕐 1PM</button>
+              </a>
+            </small>
+          {%- endif -%}
           {%- if event.podcast -%}
           <small>
             &nbsp;&nbsp;

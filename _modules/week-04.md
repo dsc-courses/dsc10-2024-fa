@@ -9,6 +9,9 @@ days:
           title: Probability
           url:
           html: resources/lectures/lec11/lec11.pdf
+          9am: resources/lectures/lec11/lec11_9am.pdf
+          10am: resources/lectures/lec11/lec11_10am.pdf
+          1pm: resources/lectures/lec11/lec11_1pm.pdf
           podcast:
           readings:
             - name: CIT 9.5
