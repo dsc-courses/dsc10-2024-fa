@@ -14,7 +14,7 @@ days:
         - name: DISC 5
           type: disc
           title: Probability and Simulation
-          problems:
+          url: https://practice.dsc10.com/disc05/index.html
     - date: 2024-10-30
       events: 
         - name: EXAM
