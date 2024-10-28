@@ -48,7 +48,7 @@ days:
           html:
           podcast:
           readings:
-    - date: 2024-12-8
+    - date: 2024-12-7
       events: 
         - name: EXAM
           type: exam
