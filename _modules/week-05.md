@@ -8,7 +8,7 @@ days:
           type: lecture
           title: Midterm Review
           url:
-          html:
+          html: resources/lectures/lec14/lec14.pdf
           podcast:
           readings:
         - name: DISC 5
