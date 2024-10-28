@@ -9,6 +9,9 @@ days:
           title: Midterm Review
           url:
           html: resources/lectures/lec14/lec14.pdf
+          9am: resources/lectures/lec11/lec14_9am.pdf
+          10am: resources/lectures/lec11/lec14_10am.pdf
+          1pm: resources/lectures/lec11/lec14_1pm.pdf
           podcast:
           readings:
         - name: DISC 5
