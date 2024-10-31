@@ -35,7 +35,7 @@ days:
         - name: LAB 4
           type: lab
           title: Simulation, Sampling, & Bootstrapping
-          url:
+          url: http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2024-fa&subPath=labs/lab04/lab04.ipynb
     - date: 2024-11-8
       events: 
         - name: LEC 18
