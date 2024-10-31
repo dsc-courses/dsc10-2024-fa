@@ -28,8 +28,8 @@ days:
         - name: LEC 15
           type: lecture
           title: Bootstrapping and Confidence Intervals
-          url:
-          html:
+          url: http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2024-fa&subPath=lectures/lec15/lec15.ipynb
+          html: resources/lectures/lec15/lec15.html
           podcast:
           readings:
             - name: CIT 13.0-13.2
