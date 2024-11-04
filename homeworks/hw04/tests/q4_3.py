@@ -1,0 +1,10 @@
+test = {   'name': 'q4_3',
+    'points': None,
+    'suites': [   {   'cases': [   {   'code': ">>> callable(city_and_hist) and (jacksonville_string != None) # Make sure your function returns a string, and doesn't just print a string\nTrue",
+                                       'hidden': False,
+                                       'locked': False},
+                                   {'code': ">>> jacksonville_string[:71] == 'A 99% confidence interval for the average Jacksonville house price is ['\nTrue", 'hidden': False, 'locked': False}],
+                      'scored': True,
+                      'setup': '',
+                      'teardown': '',
+                      'type': 'doctest'}]}
