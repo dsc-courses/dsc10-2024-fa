@@ -7,13 +7,13 @@ days:
         - name: LEC 16
           type: lecture
           title: Confidence Intervals, Center, and Spread
-          url:
-          html:
+          url: http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2024-fa&subPath=lectures/lec16/lec16.ipynb
+          html: resources/lectures/lec16/lec16.html
           podcast:
           readings:
             - name: CIT 13.3-13.4
               url: https://inferentialthinking.com/chapters/13/3/Confidence_Intervals.html
-          keywords: interpreting CIs, robust vs. sensitive, center, standard deviation, Chebyshev
+          keywords: interpreting CIs, robust vs. sensitive, center, standard deviation
         - name: DISC 6
           type: disc
           title: Sampling, Bootstrapping, and Confidence Intervals
