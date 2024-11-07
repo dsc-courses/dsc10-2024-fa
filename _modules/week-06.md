@@ -41,8 +41,8 @@ days:
         - name: LEC 18
           type: lecture
           title: The Central Limit Theorem
-          url:
-          html:
+          url: http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2024-fa&subPath=lectures/lec18/lec18.ipynb
+          html: resources/lectures/lec18/lec18.html
           podcast:
           readings:
             - name: CIT 14.4-14.5
