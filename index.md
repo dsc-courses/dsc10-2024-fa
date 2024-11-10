@@ -31,7 +31,7 @@ This site is **under construction**. Anything you read here is not finalized. Th
 
 
 
-[Jump to the current week](/#week-6-confidence-intervals-and-the-normal-distribution){: .btn }
+[Jump to the current week](/#week-7-central-limit-theorem){: .btn }
 
 
 {% for module in site.modules %}
