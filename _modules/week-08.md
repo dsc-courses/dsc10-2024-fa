@@ -18,8 +18,8 @@ days:
           keywords: fair or unfair coin, p-value, midterm exam scores, Alameda County jury, TVD
         - name: DISC 7
           type: disc
-          title: The Normal Distribution and the CLT
-          problems:
+          title: Choosing Sample Sizes, Hypothesis Testing, and Permutation Testing
+          url: https://practice.dsc10.com/disc07/index.html
     - date: 2024-11-20
       events: 
         - name: LEC 22
