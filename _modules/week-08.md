@@ -25,8 +25,8 @@ days:
         - name: LEC 22
           type: lecture
           title: TVD, Hypothesis Testing, and Permutation Testing
-          url:
-          html:
+          url: http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2024-fa&subPath=lectures/lec22/lec22.ipynb
+          html: resources/lectures/lec22/lec22.html
           podcast:
           readings:
             - name: CIT 12.0-12.1
