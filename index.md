@@ -13,6 +13,9 @@ nav_order: 1
 
 {{ site.staffersnobio }}
 
+{: .success }
+>Because of holidays, the schedule of important dates is a bit different in the last few weeks! Next week, we have Quiz 4 on Monday, Homework 6 due on Tuesday, and Discussion 8 on Wednesday. 
+
 <!--{: .success }
 >Welcome to DSC 10! Make sure to read this website thoroughly and complete the items in the [Getting Started](https://dsc10.com/syllabus/#-getting-started) checklist. These are due **Sunday, September 29th at 11:59PM**.-->
 
@@ -26,8 +29,9 @@ This site is **under construction**. Anything you read here is not finalized. Th
 >If at least 75% of the class fills out both [SETs](https://academicaffairs.ucsd.edu/Modules/Evals/) and the internal [End-of-Quarter Survey](https://forms.gle/pNaf8hrhmjKcJg3D9), then the entire class will have **1% of extra credit added to their overall grade**. The deadline is Saturday, June 8th at 8AM.
 -->
 
-{: .success }
+<!--{: .success }
 >**Tip: When working on assignments, use Ctrl+F on this page to search for a keyword and quickly find the relevant lecture. Click the "✏️ write" button to open a static version of the lecture for reference, which is much faster than loading it on DataHub. Also, make sure to use the [reference sheet](https://dsc-courses.github.io/bpd-reference/docs/documentation/intro/) to quickly look up `babypandas` methods and see examples of how they work.**
+-->
 
 
 
