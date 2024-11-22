@@ -43,8 +43,8 @@ days:
         - name: LEC 23
           type: lecture
           title: Permutation Testing
-          url:
-          html:
+          url: http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2024-fa&subPath=lectures/lec23/lec23.ipynb
+          html: resources/lectures/lec23/lec23.html
           podcast:
           readings:
             - name: CIT 12.3
