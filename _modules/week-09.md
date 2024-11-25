@@ -7,8 +7,8 @@ days:
         - name: LEC 24
           type: lecture
           title: Correlation
-          url:
-          html:
+          url: http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2024-fa&subPath=lectures/lec24/lec24.ipynb
+          html: resources/lectures/lec24/lec24.html
           podcast:
           readings:
             - name: CIT 15.0-15.2
