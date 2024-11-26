@@ -38,7 +38,7 @@ days:
         - name: DISC 8
           type: disc
           title: Hypothesis Testing and Permutation Testing
-          problems:
+          url: https://practice.dsc10.com/disc08/index.html
     - date: 2024-11-29
       events: 
         - markdown_content: <b>No Lecture (Thanksgiving 🦃)</b>
