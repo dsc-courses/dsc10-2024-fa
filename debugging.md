@@ -151,3 +151,11 @@ Sometimes DataHub does have availability issues. Usually it is back up and runni
 ### What if I don't have access to DataHub and I still want to access DSC 10 materials?
 
 We welcome the general public to use our materials. If you're not enrolled in the class, or you don't yet have acccess to Datahub, you can access all lectures and assignments in our [public GitHub repository](https://github.com/dsc-courses/dsc10-2024-fa). In order to run Jupyter notebooks locally on your own computer, we recommend using [Anaconda](https://www.anaconda.com/). Note that students hoping to enroll in the course should complete all assignments by the due date, even if you don't yet have access to DataHub. 
+
+### What would be the best way to download or clone the course directory from DataHub?
+
+Here are the steps that to make the process really efficient!
+1. Go directly to [https://datahub.ucsd.edu](https://datahub.ucsd.edu). This should bring you to the top-level directory of your DataHub.
+2. Click "New > Terminal" in the top right.
+3. Enter this command: `7z a my-files.zip *`
+4. You'll see a lot of random text in the Terminal. Once the command is done running, the text will stop. Then, go back to your DataHub homepage, and you'll see a new file called `my-files.zip`. Click the checkbox next to it, then click "Download" at the top, and you'll be good to go!
