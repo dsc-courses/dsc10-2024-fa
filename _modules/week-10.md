@@ -17,7 +17,7 @@ days:
         - name: DISC 9
           type: disc
           title: Regression
-          problems:
+          url: https://practice.dsc10.com/disc09/index.html
     - date: 2024-12-3
       events:
         - name: PROJ
