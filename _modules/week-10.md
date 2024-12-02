@@ -28,9 +28,9 @@ days:
       events: 
         - name: LEC 27
           type: lecture
-          title: Review
+          title: Review (Spring 2024 Final Exam)
           url:
-          html:
+          html: resources/lectures/lec27/lec27.pdf
           podcast:
           readings:
     - date: 2024-12-5

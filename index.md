@@ -27,7 +27,7 @@ This site is **under construction**. Anything you read here is not finalized. Th
 >The Final Exam is **this Saturday, December 7th from 11:30AM to 2:30PM**.
 >
 >Earn 1 participation point by filling out both [SETs](https://academicaffairs.ucsd.edu/Modules/Evals/) and the internal [End-of-Quarter Survey](https://forms.gle/NQ76jTvq9799VvWq8) before Saturday, December 7th at 8AM.
--->
+
 
 <!--{: .success }
 >**Tip: When working on assignments, use Ctrl+F on this page to search for a keyword and quickly find the relevant lecture. Click the "✏️ write" button to open a static version of the lecture for reference, which is much faster than loading it on DataHub. Also, make sure to use the [reference sheet](https://dsc-courses.github.io/bpd-reference/docs/documentation/intro/) to quickly look up `babypandas` methods and see examples of how they work.**
