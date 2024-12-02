@@ -13,8 +13,8 @@ nav_order: 1
 
 {{ site.staffersnobio }}
 
-{: .success }
->Because of holidays, the schedule of important dates is a bit different in the last few weeks! Next week, we have Quiz 4 on Monday, Homework 6 due on Tuesday, and Discussion 8 on Wednesday. 
+<!--{: .success }
+>Because of holidays, the schedule of important dates is a bit different in the last few weeks! Next week, we have Quiz 4 on Monday, Homework 6 due on Tuesday, and Discussion 8 on Wednesday. -->
 
 <!--{: .success }
 >Welcome to DSC 10! Make sure to read this website thoroughly and complete the items in the [Getting Started](https://dsc10.com/syllabus/#-getting-started) checklist. These are due **Sunday, September 29th at 11:59PM**.-->
@@ -23,10 +23,10 @@ nav_order: 1
 <!--{: .warning }
 This site is **under construction**. Anything you read here is not finalized. This disclaimer will be removed when the site is ready for Fall 2024.-->
 
-<!--{: .success }
->The Final Exam is **this Saturday, June 8th from 7-10PM** in Solis 104 and Solis 107. You will be assigned a seat in one of these rooms.  
+{: .success }
+>The Final Exam is **this Saturday, December 7th from 11:30AM to 2:30PM**.
 >
->If at least 75% of the class fills out both [SETs](https://academicaffairs.ucsd.edu/Modules/Evals/) and the internal [End-of-Quarter Survey](https://forms.gle/pNaf8hrhmjKcJg3D9), then the entire class will have **1% of extra credit added to their overall grade**. The deadline is Saturday, June 8th at 8AM.
+>Earn 1 participation point by filling out both [SETs](https://academicaffairs.ucsd.edu/Modules/Evals/) and the internal [End-of-Quarter Survey](https://forms.gle/NQ76jTvq9799VvWq8) before Saturday, December 7th at 8AM.
 -->
 
 <!--{: .success }
