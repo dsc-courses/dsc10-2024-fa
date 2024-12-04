@@ -7,8 +7,8 @@ days:
         - name: LEC 26
           type: lecture
           title: Residuals and Inference
-          url:
-          html:
+          url: http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2024-fa&subPath=lectures/lec26/lec26.ipynb
+          html: resources/lectures/lec26/lec26.html
           podcast:
           readings:
             - name: CIT 15.5-16.3
