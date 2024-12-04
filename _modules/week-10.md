@@ -31,6 +31,8 @@ days:
           title: Review (Spring 2024 Final Exam)
           url:
           html: resources/lectures/lec27/lec27.pdf
+          9am: resources/lectures/lec27/lec27_9am.pdf
+          10am: resources/lectures/lec27/lec27_10am.pdf
           podcast:
           readings:
     - date: 2024-12-5
