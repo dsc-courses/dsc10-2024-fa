@@ -48,6 +48,9 @@ days:
           title: Review, Conclusion
           url: http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2024-fa&subPath=lectures/lec28/lec28.ipynb
           html: resources/lectures/lec28/lec28.html
+          9am: resources/lectures/lec28/lec28_9am.pdf
+          10am: resources/lectures/lec28/lec28_10am.pdf
+          1pm: resources/lectures/lec28/lec28_1pm.pdf
           podcast:
           readings:
     - date: 2024-12-7
