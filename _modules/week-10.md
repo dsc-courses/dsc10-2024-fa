@@ -46,8 +46,8 @@ days:
         - name: LEC 28
           type: lecture
           title: Review, Conclusion
-          url:
-          html:
+          url: http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2024-fa&subPath=lectures/lec28/lec28.ipynb
+          html: resources/lectures/lec28/lec28.html
           podcast:
           readings:
     - date: 2024-12-7
